@@ -1,0 +1,488 @@
+city,country,location,parameter,sourceName,unit,value
+Huasco,CL,21 de Mayo,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',37.61
+Huasco,CL,21 de Mayo,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',94.77
+Los Angeles,CL,21 de mayo,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',35.0
+Los Angeles,CL,21 de mayo,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',43.0
+Los Angeles,CL,21 de mayo,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',18.97
+Los Angeles,CL,21 de mayo,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',42.0
+Puerto Montt,CL,Alerce,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',21.0
+Puerto Montt,CL,Alerce,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',9.0
+Alto Hospicio,CL,Alto Hospicio,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',17.0
+Andacollo,CL,Andacollo,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',126.0
+Antofagasta,CL,Antofagasta,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',0.39
+Antofagasta,CL,Antofagasta,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',28.0
+Antofagasta,CL,Antofagasta,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',95.0
+Arica,CL,Arica,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',18.04
+Balneario,CL,Balneario,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',0.47
+Balneario,CL,Balneario,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',0.13
+Curanilahue,CL,Balneario Curanilahue,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',82.0
+Curanilahue,CL,Balneario Curanilahue,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',26.0
+Hualpén,CL,Bocatoma,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',8.66
+Hualpén,CL,Bocatoma,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',27.66
+Tocopilla,CL,Bomberos,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',17.24
+Tocopilla,CL,Bomberos,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',18.1
+Calabozo,CL,Calabozo,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',3.9
+Puchuncaví,CL,Campiche,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',2.67
+Puchuncaví,CL,Campiche,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',222.1
+Puchuncaví,CL,Campiche,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',2.65
+Puchuncaví,CL,Campiche,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',80.49
+Catemu,CL,Catemu,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',5.0
+Machal��,CL,Cauquenes,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',29.44
+Centro Quintero,CL,Centro Quintero,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',5.79
+Centro Quintero,CL,Centro Quintero,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',21.68
+Centro Quintero,CL,Centro Quintero,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',31.34
+Centro Quintero,CL,Centro Quintero,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1472.02
+Centro Quintero,CL,Centro Quintero,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',382.61
+Centro Quintero,CL,Centro Quintero,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',21.25
+Centro Quintero,CL,Centro Quintero,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',6.72
+Centro Quintero,CL,Centro Quintero,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',92.89
+Cerrillos,CL,Cerrillos,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',950.18
+Cerrillos,CL,Cerrillos,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',36.97
+Cerrillos,CL,Cerrillos,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',47.0
+Cerrillos,CL,Cerrillos,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',192.0
+Coronel,CL,Cerro Merquín,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',4.97
+Coronel,CL,Cerro Merquín,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',10.0
+Coronel,CL,Cerro Merquín,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',11.0
+Cerro Navia,CL,Cerro Navia,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',142.88
+Cerro Navia,CL,Cerro Navia,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',0.14
+Cerro Navia,CL,Cerro Navia,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1445.57
+Cerro Navia,CL,Cerro Navia,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',69.0
+Cerro Navia,CL,Cerro Navia,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',150.0
+Chaiten Norte,CL,Chaiten Norte,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',999.83
+Chaiten Norte,CL,Chaiten Norte,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',51.99
+Machalí,CL,Cipreses,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',11.68
+Calama,CL,Club Deportivo 23 de Marzo,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',9.14
+Calama,CL,Club Deportivo 23 de Marzo,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',96.17
+Calama,CL,Club Deportivo 23 de Marzo,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',11.66
+Calama,CL,Club Deportivo 23 de Marzo,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',87.27
+Club de Empleados,CL,Club de Empleados,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',31.13
+Club de Empleados,CL,Club de Empleados,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',3.12
+Club de Empleados,CL,Club de Empleados,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1990.81
+Club de Empleados,CL,Club de Empleados,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',41.26
+Club de Empleados,CL,Club de Empleados,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',52.43
+Club de Empleados,CL,Club de Empleados,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',63.74
+Calama,CL,Colegio Pedro Vergara Keller,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',4.4
+Calama,CL,Colegio Pedro Vergara Keller,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',25.41
+Calama,CL,Colegio Pedro Vergara Keller,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',9.65
+Calama,CL,Colegio Pedro Vergara Keller,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',19.38
+Cabrero,CL,Colicheu,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',3.14
+Cabrero,CL,Colicheu,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',19.01
+Cabrero,CL,Colicheu,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',666.27
+Cabrero,CL,Colicheu,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',3.68
+Cabrero,CL,Colicheu,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',15.55
+Colmo,CL,Colmo,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',44.57
+Colmo,CL,Colmo,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',15.21
+Colmo,CL,Colmo,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',22.86
+Colmo,CL,Colmo,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',9.86
+Colmo,CL,Colmo,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',14.88
+Colmo,CL,Colmo,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',7.73
+Complejo Deportivo 23 de Marzo,CL,Complejo Deportivo 23 de Marzo,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',36.25
+Complejo Deportivo 23 de Marzo,CL,Complejo Deportivo 23 de Marzo,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',9.66
+Complejo Deportivo 23 de Marzo,CL,Complejo Deportivo 23 de Marzo,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',35.35
+Complejo Deportivo 23 de Marzo,CL,Complejo Deportivo 23 de Marzo,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',7.48
+Concón,CL,Concón,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',11.45
+Concón,CL,Concón,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',44.47
+Concón,CL,Concón,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',93.47
+Concón,CL,Concón,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',749.75
+Concón,CL,Concón MMA,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',24.0
+Concón,CL,Concón MMA,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',33.0
+Consultorio - San Vicente,CL,Consultorio - San Vicente,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',14.0
+Consultorio - San Vicente,CL,Consultorio - San Vicente,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',40.0
+Consultorio - San Vicente,CL,Consultorio - San Vicente,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',13.07
+Consultorio - San Vicente,CL,Consultorio - San Vicente,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',3.2
+Consultorio - San Vicente,CL,Consultorio - San Vicente,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',37.94
+Consultorio - San Vicente,CL,Consultorio - San Vicente,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',2.43
+Consultorio - San Vicente,CL,Consultorio - San Vicente,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',51.0
+Consultorio - San Vicente,CL,Consultorio - San Vicente,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',67.0
+Copiapo Sivica,CL,Copiapo Sivica,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',4.78
+Copiapo Sivica,CL,Copiapo Sivica,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',18.54
+Copiapo Sivica,CL,Copiapo Sivica,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',115.69
+Copiapo Sivica,CL,Copiapo Sivica,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',17.41
+Copiapó,CL,Copiapó,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',10.13
+Coquimbo,CL,Coquimbo,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',28.75
+Coronel,CL,Coronel Norte,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',3.09
+Coronel,CL,Coronel Norte,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',182.3
+Coronel,CL,Coronel Norte,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',2906.65
+Coronel,CL,Coronel Norte,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1.11
+Coronel,CL,Coronel Sur,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',628.5
+Coronel,CL,Coronel Sur,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',100.74
+Coronel,CL,Coronel Sur,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',5.06
+Coronel,CL,Coronel Sur,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',8.55
+Coronel,CL,Coronel Sur,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',493.72
+Coronel,CL,Coronel Sur,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',2.37
+Machalí,CL,Coya Población,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',6.94
+Coyhaique,CL,Coyhaique,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1.0
+Coyhaique II,CL,Coyhaique II,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',5777.61
+Coyhaique II,CL,Coyhaique II,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',31.38
+Coyhaique II,CL,Coyhaique II,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',94.65
+Coyhaique II,CL,Coyhaique II,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',589.46
+Coyhaique II,CL,Coyhaique II,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',16.3
+Coyhaique II,CL,Coyhaique II,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',15.0
+Coyhaique II,CL,Coyhaique II,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',17.0
+Coyhaique II,CL,Coyhaique II,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',296.0
+Coyhaique II,CL,Coyhaique II,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',327.0
+Coyhaique II,CL,Coyhaique II,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1.34
+Coyhaique II,CL,Coyhaique II,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',3.78
+Salamanca,CL,Cuncumen ,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',31.25
+Salamanca,CL,Cuncumen ,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',16.29
+Curicó,CL,Curicó,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',18.0
+Curicó,CL,Curicó,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',18.28
+Huasco,CL,EME F,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',18.73
+Huasco,CL,EME F,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',39.8
+Huasco,CL,EME F,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',5.44
+Huasco,CL,EME F,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',13.55
+Huasco,CL,EME F,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',839.9
+Huasco,CL,EME M,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',4.21
+Huasco,CL,EME M,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',16.97
+Huasco,CL,EME M,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',7.56
+Hualpén,CL,ENAP Price,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',88.34
+Hualpén,CL,ENAP Price,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',33.34
+Hualpén,CL,ENAP Price,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',166.76
+Hualpén,CL,ENAP Price,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',79.3
+Hualpén,CL,ENAP Price,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',4.38
+El Bosque,CL,El Bosque,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1025.85
+El Bosque,CL,El Bosque,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',26.82
+El Bosque,CL,El Bosque,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',37.0
+El Bosque,CL,El Bosque,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',105.0
+El Bosque,CL,El Bosque,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1.65
+El Bosque,CL,El Bosque,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',596.52
+Andacollo,CL,El Sauce,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',50.09
+Andacollo,CL,El Sauce,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',39.98
+Entre Ríos,CL,Entre Ríos,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',8.01
+Escuela E-10,CL,Escuela E-10,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1.97
+Escuela E-10,CL,Escuela E-10,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',825736.0
+Escuela E-10,CL,Escuela E-10,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',24.74
+Escuela E-10,CL,Escuela E-10,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',45.66
+Escuela E-10,CL,Escuela E-10,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',26.37
+Escuela E-10,CL,Escuela E-10,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',3.94
+Estación Centro,CL,Estación Centro,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',454.54
+Estación Centro,CL,Estación Centro,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',46.87
+Estación Centro,CL,Estación Centro,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',2.38
+Aisén,CL,Estación Vialidad,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',8.0
+Gendarmería,CL,Gendarmería,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',59.41
+Gendarmería,CL,Gendarmería,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',15.19
+Gendarmería,CL,Gendarmería,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',46.24
+Gendarmería,CL,Gendarmería,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',11.4
+Gobernación,CL,Gobernación,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',24.71
+Gobernación,CL,Gobernación,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',4.72
+Gobernación,CL,Gobernación,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',59.78
+Gobernación,CL,Gobernación,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',10.05
+Tocopilla,CL,Gobernaci��n,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',0.5243
+Hospital,CL,Hospital,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',19.22
+Hualqui,CL,Hualqui,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',6.15
+Hualqui,CL,Hualqui,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',83.0
+Hualqui,CL,Hualqui,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',69.0
+Hualqui,CL,Hualqui,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',11.92
+Hualqui,CL,Hualqui,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',3.49
+Huasco II,CL,Huasco II,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',17.39
+Huasco II,CL,Huasco II,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',17.34
+Huasco II,CL,Huasco II,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',23.99
+Huasco Sivica,CL,Huasco Sivica,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',11.0
+Huasco Sivica,CL,Huasco Sivica,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',21.0
+Chillán,CL,"INIA, Chillán",pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',22.0
+Chillán,CL,"INIA, Chillán",pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',26.62
+Chillán,CL,"INIA, Chillán",pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',57.6
+Chillán,CL,"INIA, Chillán",pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',6.07
+Independencia,CL,Independencia,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1553.8
+Independencia,CL,Independencia,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1.04
+Independencia,CL,Independencia,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',93.83
+Independencia,CL,Independencia,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',40.0
+Independencia,CL,Independencia,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',114.0
+Indura,CL,Indura,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',51.33
+Indura,CL,Indura,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',6.07
+Indura,CL,Indura,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',376.64
+Indura,CL,Indura,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',24.45
+Indura,CL,Indura,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',26.59
+Talcahuano,CL,Inpesca,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',21.21
+Talcahuano,CL,Inpesca,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1.04
+Talcahuano,CL,Inpesca,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1.97
+Talcahuano,CL,Inpesca,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1.75
+Hualpén,CL,JUNJI,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',17.02
+Hualpén,CL,JUNJI,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',2088.35
+Hualpén,CL,JUNJI,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',27.77
+Hualpén,CL,JUNJI,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',127.27
+Junta de Vecinos,CL,Junta de Vecinos,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',10.35
+Kingston College,CL,Kingston College,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',28.95
+Kingston College,CL,Kingston College,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',560.65
+Kingston College,CL,Kingston College,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',14.14
+Kingston College,CL,Kingston College,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',2.84
+Kingston College,CL,Kingston College,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',5.33
+Kingston College,CL,Kingston College,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1215.57
+Kingston College,CL,Kingston College,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',3.0
+Kingston College,CL,Kingston College,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',22.0
+Kingston College,CL,Kingston College,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',35.0
+Kingston College,CL,Kingston College,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',38.0
+La Florida,CL,La Florida,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',280.48
+La Florida,CL,La Florida,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',55.15
+La Florida,CL,La Florida,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',28.79
+La Florida,CL,La Florida,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',6.95
+La Florida,CL,La Florida,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',21.0
+La Florida,CL,La Florida,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',30.0
+La Florida,CL,La Florida,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',6.41
+La Florida,CL,La Florida,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',26.0
+La Florida,CL,La Florida,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',3.47
+La Florida,CL,La Florida,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',19.32
+La Florida,CL,La Florida,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',640.21
+La Florida,CL,La Florida,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',18.0
+Puchuncaví,CL,La Greda,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',17.13
+Puchuncaví,CL,La Greda,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',69.55
+Puchuncaví,CL,La Greda,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',20.2
+Puchuncaví,CL,La Greda,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',20.15
+Puchuncaví,CL,La Greda,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',20.45
+Puchuncaví,CL,La Greda,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',9.4
+Puchuncaví,CL,La Greda,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',26.42
+Puchuncaví,CL,La Greda,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',8.04
+Coquimbo,CL,La Serena,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',24.0
+Coquimbo,CL,La Serena,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',24.0
+La Union,CL,La Union,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',8.0
+La Union,CL,La Union,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',64.0
+Coronel,CL,Lagunillas,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',5903.73
+Coronel,CL,Lagunillas,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1319.95
+Coronel,CL,Lagunillas,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',67.14
+Coronel,CL,Lagunillas,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',7.14
+Coronel,CL,Lagunillas,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',11.34
+Coronel,CL,Lagunillas,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',452.17
+Coronel,CL,Lagunillas,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',4.76
+Coronel,CL,Lagunillas,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',18.21
+Coronel,CL,Lagunillas,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',3.47
+Coronel,CL,Lagunillas,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',31.0
+Laja,CL,Laja,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',0.89
+Laja,CL,Laja,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',14.88
+Laja,CL,Laja,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',5.26
+Laja,CL,Laja,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',6.98
+Laja,CL,Laja,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',127.07
+Las Condes,CL,Las Condes,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',10.62
+Las Condes,CL,Las Condes,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',53.89
+Las Condes,CL,Las Condes,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',673.52
+Las Condes,CL,Las Condes,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',9.0
+Las Condes,CL,Las Condes,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',50.0
+Temuco,CL,Las Encinas Temuco,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',703.07
+Temuco,CL,Las Encinas Temuco,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',420.93
+Temuco,CL,Las Encinas Temuco,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',48.0
+Temuco,CL,Las Encinas Temuco,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',81.0
+Temuco,CL,Las Encinas Temuco,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',11.0
+Temuco,CL,Las Encinas Temuco,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',18.0
+Las Gaviotas,CL,Las Gaviotas,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',9.17
+Lautaro,CL,Lautaro,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',249.2
+Liceo Polivalente,CL,Liceo Polivalente,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1.29
+Liceo Polivalente,CL,Liceo Polivalente,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',2.33
+Liceo Polivalente,CL,Liceo Polivalente,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',28.0
+Liceo Polivalente,CL,Liceo Polivalente,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',12.45
+Liceo Polivalente,CL,Liceo Polivalente,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',19.95
+Liceo Polivalente,CL,Liceo Polivalente,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',25.0
+Liceo Polivalente,CL,Liceo Polivalente,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',13.99
+Liceo Polivalente,CL,Liceo Polivalente,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',21.02
+Linares,CL,Linares,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',34.0
+Lo Campo,CL,Lo Campo,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',5.0
+Lo Campo,CL,Lo Campo,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',9.0
+Loncura,CL,Loncura,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',67.86
+Loncura,CL,Loncura,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',236.97
+Loncura,CL,Loncura,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',3.78
+Loncura,CL,Loncura,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',10.0
+Loncura,CL,Loncura,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',14.85
+Loncura,CL,Loncura,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',686.88
+Loncura,CL,Loncura,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',19.28
+Loncura,CL,Loncura,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',53.2
+Los Andes,CL,Los Andes,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',13.39
+Los Maitenes,CL,Los Maitenes,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',33.63
+Los Maitenes,CL,Los Maitenes,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',12.21
+Los Maitenes,CL,Los Maitenes,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',48.11
+Los Maitenes,CL,Los Maitenes,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',24.36
+Los Maitenes,CL,Los Maitenes,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',11.0
+Los Maitenes,CL,Los Maitenes,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',567.57
+Los Maitenes,CL,Los Maitenes,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',239.13
+Los Maitenes,CL,Los Maitenes,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',13.59
+Los Maitenes,CL,Los Maitenes,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',24.5
+Los Maitenes,CL,Los Maitenes,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',48.76
+Llayllay,CL,Los Vientos,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',983.1
+Llayllay,CL,Los Vientos,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',57.87
+Llayllay,CL,Los Vientos,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',740.7
+Llayllay,CL,Los Vientos,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',0.1651
+Copiapó,CL,Los Volcanes,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',22.23
+Los Angeles,CL,Los Ángeles Oriente,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',26.0
+Los Angeles,CL,Los Ángeles Oriente,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',16.0
+Coronel,CL,Lota rural,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1576.39
+Coronel,CL,Lota rural,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',15.47
+Coronel,CL,Lota rural,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',5.92
+Coronel,CL,Lota rural,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',57.7
+Coronel,CL,Lota rural,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',24.95
+Coronel,CL,Lota rural,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',262.52
+Coronel,CL,Lota rural,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',7.76
+Coronel,CL,Lota rural,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',286.2
+Coronel,CL,Lota rural,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',640.72
+Coronel,CL,Lota rural,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',6.16
+Coronel,CL,Lota urbana,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',7.84
+Coronel,CL,Lota urbana,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',5.95
+Coronel,CL,Lota urbana,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',16.49
+Coronel,CL,Lota urbana,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',19.78
+Mirasol,CL,Mirasol,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',13.0
+Mirasol,CL,Mirasol,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',39.0
+Temuco,CL,Museo Ferroviario,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',3.41
+Temuco,CL,Museo Ferroviario,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',12.4
+Nueva Libertad,CL,Nueva Libertad,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',38.08
+Nueva Libertad,CL,Nueva Libertad,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',99.3
+Nueva Libertad,CL,Nueva Libertad,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',9.16
+Nueva Libertad,CL,Nueva Libertad,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',11.13
+Nueva Libertad,CL,Nueva Libertad,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1129.92
+Nueva Libertad,CL,Nueva Libertad,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',2600.98
+Nueva Libertad,CL,Nueva Libertad,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',10.96
+Nueva Libertad,CL,Nueva Libertad,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',15.04
+Nueva Libertad,CL,Nueva Libertad,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',14.7
+Nueva Libertad,CL,Nueva Libertad,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',93.4
+Osorno,CL,Osorno,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',52.0
+Osorno,CL,Osorno,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',62.0
+Padre Las Casas II,CL,Padre Las Casas II,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',6.0
+Padre Las Casas II,CL,Padre Las Casas II,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',16.0
+Padre Las Casas II,CL,Padre Las Casas II,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1278.4
+Padre Las Casas II,CL,Padre Las Casas II,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',98.0
+Padre Las Casas II,CL,Padre Las Casas II,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',96.0
+Padre Las Casas II,CL,Padre Las Casas II,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',554.12
+Copiapó,CL,Paipote,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',15.66
+Parque O'Higgins,CL,Parque O'Higgins,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',2109.29
+Parque O'Higgins,CL,Parque O'Higgins,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',7.17
+Parque O'Higgins,CL,Parque O'Higgins,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',163.09
+Parque O'Higgins,CL,Parque O'Higgins,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',48.0
+Parque O'Higgins,CL,Parque O'Higgins,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',87.5
+Parque O'Higgins,CL,Parque O'Higgins,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1541.67
+Parque O'Higgins,CL,Parque O'Higgins,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',34.0
+Parque O'Higgins,CL,Parque O'Higgins,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',106.0
+Parque O'Higgins,CL,Parque O'Higgins,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',14.61
+Parque O'Higgins,CL,Parque O'Higgins,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',130.5
+Cabrero,CL,Progreso,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',13.66
+Cabrero,CL,Progreso,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',2.62
+Cabrero,CL,Progreso,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',13698.5
+Cabrero,CL,Progreso,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',2.06
+Cabrero,CL,Progreso,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',37.46
+Puchuncaví,CL,Puchuncaví,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',14.77
+Puchuncaví,CL,Puchuncaví,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',13.81
+Puchuncaví,CL,Puchuncaví,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',12.0
+Pudahuel,CL,Pudahuel,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',25.55
+Pudahuel,CL,Pudahuel,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',56.0
+Pudahuel,CL,Pudahuel,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',118.0
+Pudahuel,CL,Pudahuel,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',127.84
+Pudahuel,CL,Pudahuel,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1701.94
+Puente Alto,CL,Puente Alto,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',52.48
+Puente Alto,CL,Puente Alto,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',30.0
+Puente Alto,CL,Puente Alto,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',77.0
+Puente Alto,CL,Puente Alto,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',28.18
+Puente Alto,CL,Puente Alto,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1476.22
+Puente Alto,CL,Puente Alto,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',22.24
+Punta Arenas,CL,Punta Arenas,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1.83
+Punteras,CL,Punteras,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',19.0
+Punteras,CL,Punteras,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',21.0
+Punteras,CL,Punteras,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',20.0
+Punteras,CL,Punteras,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',18.0
+Punteras,CL,Punteras,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',18.27
+Punteras,CL,Punteras,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1.8
+Puren,CL,Puren,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',42.0
+Puren,CL,Puren,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',56.0
+Puren,CL,Puren,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',36.45
+Puren,CL,Puren,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',43.26
+QUILICURA ,CL,QUILICURA ,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',32.0
+QUILICURA ,CL,QUILICURA ,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',77.0
+QUILICURA ,CL,QUILICURA ,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',54.0
+QUILICURA ,CL,QUILICURA ,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',139.0
+Quilicura,CL,QUILICURA II,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',22.04
+Quilicura,CL,QUILICURA II,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',89.4
+Quilicura,CL,Quilicura,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',39.0
+Quilicura,CL,Quilicura,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',134.5
+Quilicura,CL,Quilicura,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',2.34
+Quilicura,CL,Quilicura,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',66.27
+Quilicura,CL,Quilicura,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',4.46
+Quilicura,CL,Quilicura,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',777.9
+Quillón,CL,Quillón,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',14.6
+Quilpue,CL,Quilpue,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',22.48
+Quilpue,CL,Quilpue,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',141.4
+Quintero,CL,Quintero,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',68.38
+Quintero,CL,Quintero Centro,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',335.92
+Quintero,CL,Quintero Centro,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',3.61
+Quintero,CL,Quintero Centro,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',18.02
+Quintero,CL,Quintero Centro,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',6.98
+Rancagua I,CL,Rancagua I,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',78.0
+Rancagua I,CL,Rancagua I,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1334.95
+Rancagua I,CL,Rancagua I,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',976.86
+Rancagua I,CL,Rancagua I,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',54.0
+Rancagua I,CL,Rancagua I,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',115.0
+Rancagua I,CL,Rancagua I,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',3.71
+Rancagua I,CL,Rancagua I,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',46.0
+Rancagua II,CL,Rancagua II,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',20.48
+Rancagua II,CL,Rancagua II,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',114.87
+Rancagua II,CL,Rancagua II,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',37.0
+Rancagua II,CL,Rancagua II,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',17.0
+Rengo,CL,Rengo,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',26.0
+Rengo,CL,Rengo,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',29.0
+Romeral,CL,Romeral,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',5.0
+Romeral,CL,Romeral,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',9.0
+Huasco,CL,SM1 ,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',2.58
+Huasco,CL,SM2,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',2.95
+SM3 ,CL,SM3 ,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',307.67
+SM3 ,CL,SM3 ,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',5.21
+Huasco,CL,SM4 ,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',6.02
+Huasco,CL,SM5 ,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',5.79
+Freirina,CL,SM6 ,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',4.6
+Freirina,CL,SM7 ,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',4.93
+Freirina,CL,SM8 ,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',4.75
+Copiapó,CL,San Fernando,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',4.96
+Copiapó,CL,San Fernando,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',5.88
+Copiapó,CL,San Fernando,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',16.0
+Copiapó,CL,San Fernando,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',26.33
+Santa Margarita,CL,Santa Margarita,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',6.0
+Sierra Gorda ,CL,Sierra Gorda ,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1.0
+Sierra Gorda ,CL,Sierra Gorda ,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',13.0
+Sierra Gorda ,CL,Sierra Gorda ,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',4.0
+Sierra Gorda ,CL,Sierra Gorda ,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',30.0
+Sur,CL,Sur,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',385.99
+Sur,CL,Sur,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',60.32
+Sur,CL,Sur,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',9.17
+Sur,CL,Sur,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',21.61
+Sur,CL,Sur,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',64.81
+Talagante,CL,Talagante,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',10.42
+Talagante,CL,Talagante,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',54.0
+Talagante,CL,Talagante,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',108.0
+Talagante,CL,Talagante,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1139.17
+Talagante,CL,Talagante,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',63.14
+Talagante,CL,Talagante,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',2.75
+Santiago,CL,Test Prueba,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',28.0
+Santiago,CL,Test Prueba,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',38.0
+Tierra Amarilla,CL,Tierra Amarilla,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',385.94
+U.C. Maule,CL,U.C. Maule,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',34.0
+U.C. Maule,CL,U.C. Maule,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',16.0
+U.C. Maule,CL,U.C. Maule,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',36.0
+U.C. Maule,CL,U.C. Maule,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',8.0
+Universidad de Talca,CL,Universidad de Talca,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',40.0
+Universidad de Talca,CL,Universidad de Talca,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',45.0
+Universidad de Talca,CL,Universidad de Talca,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',27.0
+Universidad de Talca,CL,Universidad de Talca,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',43.0
+Valdivia,CL,Valdivia,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',52.0
+Valdivia,CL,Valdivia,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',56.0
+Valdivia,CL,Valdivia,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',2.94
+Valdivia,CL,Valdivia,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1.58
+Valdivia,CL,Valdivia,co,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',677.84
+Valdivia 2,CL,Valdivia 2,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',3.0
+Valdivia 2,CL,Valdivia 2,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',5.0
+Valdivia 2,CL,Valdivia 2,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',7.0
+Valdivia 2,CL,Valdivia 2,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',9.0
+Valle Alegre,CL,Valle Alegre,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',8.0
+Valle Alegre,CL,Valle Alegre,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',7.96
+Valle Alegre,CL,Valle Alegre,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',7.59
+Valparaiso,CL,Valparaiso,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',10.09
+Valparaiso,CL,Valparaiso,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',25.77
+Ventanas,CL,Ventanas,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',10.21
+Ventanas,CL,Ventanas,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',25.77
+Ventanas,CL,Ventanas,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',24.3
+Ventanas,CL,Ventanas,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',39.59
+Ventanas,CL,Ventanas,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',4.03
+Ventanas,CL,Ventanas,so2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',16.72
+Ventanas,CL,Ventanas,no2,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',19.07
+Ventanas,CL,Ventanas,o3,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',12.67
+Ventanas,CL,Ventanas,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',10.11
+Ventanas,CL,Ventanas,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',42.86
+Aisén,CL,Vialidad,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',1.0
+Aisén,CL,Vialidad,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',12.0
+Aisén,CL,Vialidad,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',39.0
+Viña del Mar,CL,Viña del Mar,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',23.0
+Viña del Mar,CL,Viña del Mar,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',16.99
+Temuco,CL,Ñielol,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',87.0
+Temuco,CL,Ñielol,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',92.0
+Temuco,CL,Ñielol,pm25,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',13.0
+Temuco,CL,Ñielol,pm10,Chile - SINCA,b'\xc2\xb5g/m\xc2\xb3',21.0
