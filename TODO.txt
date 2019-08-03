@@ -1,0 +1,2 @@
+1. create dir structure:    Geo, gov, corp, misc
+2. upload s3 buckets
