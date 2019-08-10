@@ -1,0 +1,162 @@
+the_geom,ma,comuna,direccion,ubicacion,horarios,cartodb_id,mi,ju,vi,sa,_do
+,0, Providencia, Santa María, entre Calle del Arzobispo y Los Piñones, Ju y Do,1,0,1,0,0,1
+,0, Providencia, Los Concilios, entre Arquitecto Pauly y Chile-España, Vi,2,0,0,1,0,0
+,0, Providencia, Manuel Montt, entre Santa Isabel y Obispo Alday, Sá,3,0,0,0,1,0
+,1, Pudahuel, Victoria, entre Las Peñas y Dos Coronas, Ma y Vi,4,0,0,1,0,0
+,0, Pudahuel, Serrano, entre San Daniel y Yungay, Ju y Do,5,0,1,0,0,1
+,0, Pudahuel, Corona Sueca, entre Los Ediles y El Salitre, Mi y Sá,6,1,0,0,1,0
+,0, Pudahuel, Faldas del Morro, entre La Estrella y Osa Mayor, Ju y Do,7,0,1,0,0,1
+,1, Pudahuel, La Travesía, entre Oceanía e Isla Grande de Tierra del Fuego, Ma y Vi,8,0,0,1,0,0
+,0, Pudahuel, La Estrella, entre Laguna Sur y Los Mares, Ju y Do,9,0,1,0,0,1
+,1, Pudahuel, Teniente Cruz, entre Ricardo Vial y San Francisco, Ma y Vi,10,0,0,1,0,0
+,0, Pudahuel, La Travesía, entre Teniente Cruz y Mar de Drake, Mi y Sá,11,1,0,0,1,0
+,1, Puente alto, Laja, entre Circunvalación y Marcos Pérez, Ma,12,0,0,0,0,0
+,0, Puente alto, Las Nieves Oriente, entre San Juan y Los Maillines, Do,13,0,0,0,0,1
+,0, Puente alto, Río Colorado, entre Estero Leonera y Estero Puangue, Do,14,0,0,0,0,1
+,1, Puente alto, Miguel Ángel, entre Ejército Libertador y Creta, Ma,15,0,0,0,0,0
+,0, Puente alto, El Peñón, entre Valle Central y Nonato Coo, Mi y Sá,16,1,0,0,1,0
+,0, Puente alto, Creta, entre Sagasca y Gabriela, Vi,17,0,0,1,0,0
+,0, Puente alto, La Balanza, entre San Carlos y Domingo Tocornal, Vi,18,0,0,1,0,0
+,1, Puente alto, Juan de Dios Malebrán, entre Ernesto Alvear y Teniente Bello, Ma,19,0,0,0,0,0
+,0, Puente alto, Luis Matte Larraín, entre Palo de Rosa y Osa Mayor, Sá,20,0,0,0,1,0
+,0, Puente alto, Ejército Libertador, entre Luis Matte Larraín y Padre Hurtado, Do,21,0,0,0,0,1
+,0, Puente alto, Río Queltehues, entre Río Yeso y Río Volcán, Vi,22,0,0,1,0,0
+,0, Puente alto, Miguel Ángel, entre Juan de Dios Malebrán y Rimbaud, Sá,23,0,0,0,1,0
+,0, Puente alto, Ulises, entre Gabriela y Venus, Mi,24,1,0,0,0,0
+,0, Puente alto, Arturo Prat, entre Uruguay y Ejército Libertador, Do,25,0,0,0,0,1
+,0, Puente alto, Los Toros, entre Concha y Toro y Nemesio Vicuña, Do,26,0,0,0,0,1
+,0, Puente alto, Los Toros, entre Nonato Coo y México, Sá,27,0,0,0,1,0
+,0, Puente alto, Las Nieves Oriente, entre Gabriela Oriente y El Peñón, Ju,28,0,1,0,0,0
+,0, Puente alto, El Peral, entre Nonato Coo y El Hidalgo, Mi,29,1,0,0,0,0
+,1, Puente alto, Ángel Pimentel, entre Chayavientos y El Quillay, Ma,30,0,0,0,0,0
+,0, Puente alto, Tomé, entre Los Loros y Circunvalación, Do,31,0,0,0,0,1
+,0, Puente alto, Uruguay, entre San Pedro y Circunvalación, Vi,32,0,0,1,0,0
+,0, Puente alto, El Volcán, entre Cordillera y Valle Hermoso, Mi,33,1,0,0,0,0
+,0, Puente alto, Pie Andino, desde Eyzaguirre hacia el sur, Ju,34,0,1,0,0,0
+,0, Puente alto, San Carlos, entre Nonato Coo y Cerrito Arriba, Do,35,0,0,0,0,1
+,0, Puente alto, Punta Blanca, entre Ramón Venegas y El Barquito, Vi,36,0,0,1,0,0
+,1, Puente alto, Tomé, entre San Carlos y Caleta Brava, Ma,37,0,0,0,0,0
+,0, Puente alto, Miguel Ángel, entre Coquimbo y Juan de Dios Malebrán, Mi,38,1,0,0,0,0
+,0, Puente alto, Troncal San Francisco, entre Luis Matte Larraín y Maestro Palomo, Ju,39,0,1,0,0,0
+,0, Puente alto, Nocedal, entre San Pedro y Sócrates, Vi,40,0,0,1,0,0
+,0, Puente alto, Reloj de Sol, entre Quitalmahue y Aguas Abajo, Sá,41,0,0,0,1,0
+,0, Puente alto, Las Nieves Oriente, entre El Peñón y Luis Matte Larraín, Do,42,0,0,0,0,1
+,0, Puente alto, Nemesio Vicuña, entre Las Nieves Oriente y San Hugo, Ju,43,0,1,0,0,0
+,1, Puente alto, San Pedro, entre Juanita Oriente y El Sauce, Ma y Vi,44,0,0,1,0,0
+,0, Puente alto, Sargento Menadier, entre Juanita y Osa Mayor, Mi y Sá,45,1,0,0,1,0
+,0, Puente alto, Quitalmahue, entre Calle del Servicio y Curaco de Vélez, Ju y Do,46,0,1,0,0,1
+,0, Puente alto, Luis Matte Larraín, entre 5º Centenario y Carlos Aguirre Luco, Vi,47,0,0,1,0,0
+,0, Puente alto, Santa Elena, entre Eyzaguirre e Irarrázaval, Sá,48,0,0,0,1,0
+,0, Puente alto, Eduardo Cordero, entre Santa Elena y Domeyko, Mi,49,1,0,0,0,0
+,0, Puente alto, Ejército Libertador, entre Arturo Prat y Real Audiencia, Ju,50,0,1,0,0,0
+,0,Puente alto, México, entre Los Toros y Bahía Inglesa, Ju,51,0,1,0,0,0
+,1,Puente alto, El Peral, entre México y Las Nieves Oriente, Ma,52,0,0,0,0,0
+,0, Quilicura, Las Violetas, entre San Martín y Antonio Varas, Sá,53,0,0,0,1,0
+,0, Quilicura, Lo Marcoleta, entre Lo Cruzat y Las Torres, Sá,54,0,0,0,1,0
+,0, Quilicura, Lo Marcoleta, entre San Luis y Colo Colo, Mi,55,1,0,0,0,0
+,0, Quilicura, Toconao, entre Valle de la Luna y San Luis, Ju,56,0,1,0,0,0
+,0, Quilicura, Lo Marcoleta, entre O'Higgins y Lo Ovalle, Ju,57,0,1,0,0,0
+,0, Quilicura, San Enrique, entre Matta y San Luis, Do,58,0,0,0,0,1
+,0, Quilicura, O'Higgins, entre Doña Leticia y Ana Frank, Sá,59,0,0,0,1,0
+,0, Quilicura, Séptimo de Línea, entre Matta y Los Europeos, Ju,60,0,1,0,0,0
+,0, Quilicura, Carampangue, entre Lo Campino y Las Águilas, Do,61,0,0,0,0,1
+,0, Quilicura, Los Alpes, entre Kilimandjaro y Rigoberto Jara, Sá,62,0,0,0,1,0
+,0, Quilicura, Ramón Rosales, entre Las Torres y De la Vega, Mi,63,1,0,0,0,0
+,1, Quilicura, Lo Marcoleta, entre San Enrique y San Luis, Ma,64,0,0,0,0,0
+,1, Quilicura, Volcán Villarrica, entre Matta y San Luis, Ma,65,0,0,0,0,0
+,0, Quilicura, Lo Marcoleta, entre San Enrique y Los Benedictinos, Vi,66,0,0,1,0,0
+,0, Quinta normal, Alberdi, entre Mapocho y José Joaquín Pérez, Mi,67,1,0,0,0,0
+,0, Quinta normal, Alsino, entre Radal y Bombero Roberts, Sá,68,0,0,0,1,0
+,1, Quinta normal, Francisco Javier, entre Nueva Imperial y Porto Seguro, Ma,69,0,0,0,0,0
+,1, Quinta normal, Los Sauces, entre Samuel Izquierdo y Lo Espinoza, Ma y Sá,70,0,0,0,1,0
+,0, Quinta normal, San Gumercindo, entre Nueva Imperial y Porto Seguro, Vi,71,0,0,1,0,0
+,0, Quinta normal, Eduardo Charme, entre José Joaquín Pérez y Vicuña Rozas, Vi,72,0,0,1,0,0
+,0, Quinta normal, José Tobías, entre Carlos Ottolenghi y Los Sauces, Ju,73,0,1,0,0,0
+,0, Quinta normal, Mercurio, entre Loyola y José Joaquín Pérez, Mi,74,1,0,0,0,0
+,0, Quinta normal, Edison, entre Radal y Gaspar de Orense, Sá,75,0,0,0,1,0
+,0, Quinta normal, Lope de Ulloa, entre Mapocho y Doctor Sierra, Ju,76,0,1,0,0,0
+,0, Quinta normal, Alberdi, entre Salvador Gutiérrez y Hoevel, Ju y Do,77,0,1,0,0,1
+,0, Quinta normal, Tránsito, entre Neptuno y Hostos, Vi,78,0,0,1,0,0
+,0, Quinta normal, Victorino Laynez, entre Nueva Imperial y Santo Domingo, Mi,79,1,0,0,0,0
+,1, Quinta normal, José Besa, entre San Pablo y Vicuña Rozas, Ma,80,0,0,0,0,0
+,0, Quinta normal, Marcelo Fitte, entre Miguel de Atero y Víctor Hugo, Do,81,0,0,0,0,1
+,0, Quinta normal, Augusto Matte, entre Carrascal y Mapocho, Do,82,0,0,0,0,1
+,0, Recoleta, San José, entre Zapadores y Enrique Donoso, Ju,83,0,1,0,0,0
+,0, Recoleta, Einstein, entre Las Torres y Regimiento Buín, Ju,84,0,1,0,0,0
+,0, Recoleta, El Guanaco, entre Einstein y Julio Martínez Prádanos (ex Santa Laura), Ju y Do,85,0,1,0,0,1
+,1, Recoleta, Zapadores, entre Recoleta y Juan Cristobal, Ma,86,0,0,0,0,0
+,0, Recoleta, La Serena, entre Recoleta y Cardenal Caro, Do,87,0,0,0,0,1
+,0, Recoleta, Colombia, entre Reina de Chile y El Cerro, Sá,88,0,0,0,1,0
+,0, Recoleta, Einstein, entre Albano y Aurelio Díaz Meza, Sá,89,0,0,0,1,0
+,0, Recoleta, Arzobispo Valdivieso, entre Alicante y Siete Norte, Vi,90,0,0,1,0,0
+,0, Recoleta, Víctor Cuccuini, entre Coronel Del Canto y Campino, Mi,91,1,0,0,0,0
+,0, Renca, Manuel Rodríguez, entre Río Huasco y Calle del Cerro, Mi,92,1,0,0,0,0
+,1, Renca, Los Clarines, entre Las Margaritas y Senador Jaime Guzmán, Ma y Vi,93,0,0,1,0,0
+,0, Renca, Nicanor Fajardo, entre Domingo Santa María y Costanera Norte, Mi y Sá,94,1,0,0,1,0
+,0, Renca, Colo Colo, entre General Freire y Arturo Prat, Ju y Do,95,0,1,0,0,1
+,0, Renca, Los Acacios, entre Los Aromos y Pasaje Rubí, Ju y Do,96,0,1,0,0,1
+,0, Renca, Condell, entre Topocalma y José Miguel Infante, Mi y Sá,97,1,0,0,1,0
+,1, Renca, Pelluhue, entre José Miguel Infante y Topocalma, Ma y Vi,98,0,0,1,0,0
+,1, Renca, Diego Portales, entre Montt Varas e Ignacio Carrera Pinto, Ma y Vi,99,0,0,1,0,0
+,0, Renca, Las Margaritas, entre Puerto Montt y Pasaje Lima, Mi y Sá,100,1,0,0,1,0
+,0, Renca, Barros Arana, entre José Santiago Aldunate y Antonio Maceo, Mi y Sá,101,1,0,0,1,0
+,0, Renca, José Manuel Balmaceda, entre Caupolicán y Pasaje Chercán, Mi y Sá,102,1,0,0,1,0
+,0, Renca, Vicuña Mackenna, entre José Miguel Infante y Miraflores, Ju y Do,103,0,1,0,0,1
+,0, San bernardo, Costanera, entre Av Colón y Covadonga, Ju y Do,104,0,1,0,0,1
+,0, San bernardo, Lo Blanco, entre Pasaje Drake y Yokaguachi, Ju y Do,105,0,1,0,0,1
+,1, San bernardo, Balmaceda, entre Martín de Solís y Maullín, Ma y Vi,106,0,0,1,0,0
+,0, San bernardo, Liborio Carvallo, entre Barros Arana y Victoria, Sá,107,0,0,0,1,0
+,1, San bernardo, Yungay, entre América y Santiago Mac-Lean, Ma y Sá,108,0,0,0,1,0
+,0, San bernardo, Balmaceda Oriente, entre Volcán Maipo y Santa Mercedes, Mi y Sá,109,1,0,0,1,0
+,0, San bernardo, Francisco de Camargo, entre Calderón de la Barca y Santa Marta, Mi y Sá,110,1,0,0,1,0
+,0, San bernardo, Antonio Varas, entre Baquedano y José Besa, Ju y Do,111,0,1,0,0,1
+,0, San joaquín, Tocornal, entre Pintor Ciccarelli e Isabel Riquelme, Sá,112,0,0,0,1,0
+,0, San joaquín, Soto Aguilar, entre San Ignacio y Barros Luco, Ju y Do,113,0,1,0,0,1
+,1, San joaquín, San Juan, entre Comercio y Av, Central Ma y Vi,114,0,0,1,0,0
+,0, San joaquín, Juan Sebastián Bach, entre Palestrina y Guido D' Arezzo, Mi,115,1,0,0,0,0
+,1, San joaquín, José Luis Cerda, entre León Prado y Varas Mena, Ma y Vi,116,0,0,1,0,0
+,0, San joaquín, Tristán Matta, entre Gauss y Panamericana Sur, Ju y Do,117,0,1,0,0,1
+,1, San joaquín, Sebastopol, entre Santa Rosa y La Castrina, Ma y Sá,118,0,0,0,1,0
+,0, San joaquín, Gaspar de Soto, entre San Gregorio y Santa Rosa, Mi y Do,119,1,0,0,0,1
+,1, San joaquín, Vecinal, entre Carmen Mena y Pasaje Anay, Ma y Vi,120,0,0,1,0,0
+,0, San joaquín, San Francisco, entre Álvarez de Toledo y María Auxiliadora, Vi,121,0,0,1,0,0
+,0, San joaquín, Chiloé, entre Varas Mena y Departamental, Vi,122,0,0,1,0,0
+,0, San joaquín, Comandante Riesle, entre Alcalde Pedro Alarcón y San Gregorio, Ju y Do,123,0,1,0,0,1
+,0, San joaquín, San Nicolás, entre Benozzo Gozzoli y Cristóbal de Erazo, Ju y Do,124,0,1,0,0,1
+,0, San joaquín, Cuarta Avenida, entre Cuarta Transversal y Quinta Transversal, Mi y Sá,125,1,0,0,1,0
+,0, San ramón, Bolivia, entre Pedro Aguirre Cerda y Cárlos Dávila, Mi y Sá,126,1,0,0,1,0
+,1, San ramón, Alpatacal, entre La Bandera y Aníbal Zañartu, Ma y Vi,127,0,0,1,0,0
+,0, San ramón, Elías Fernández Albano, entre Paraguay y Bolivia, Ju y Do,128,0,1,0,0,1
+,0, San ramón, Sargento Candelaria, entre Juan Antonio Ríos y Pedro Aguirre Cerda, Mi y Sá,129,1,0,0,1,0
+,0, San ramón, Mayo, entre Rivadavia y Alvear, Mi y Sá,130,1,0,0,1,0
+,1, San ramón, Barros Luco, entre El Parrón y Uruguay, Ma y Vi,131,0,0,1,0,0
+,0, San ramón, La Bandera, entre Vicuña Mackenna y Esperanza, Ju y Do,132,0,1,0,0,1
+,0, San ramón, Alvear, entre Fernández Albano y Santa Ana, Ju y Do,133,0,1,0,0,1
+,1, Santiago, Ventura Lavalle, entre Pedro León Ugalde y Lira, Ma,134,0,0,0,0,0
+,0, Santiago, Esperanza, entre Portales y Erasmo Escala, Do,135,0,0,0,0,1
+,0, Santiago, Martínez de Rozas, entre Ricardo Cumming y Brasil, Mi y Sá,136,1,0,0,1,0
+,0, Santiago, Gaspar De la Barrera, entre Longaví y Camino Melipilla, Ju y Do,137,0,1,0,0,1
+,1, Santiago, Coquimbo, entre Nueva Aldea y Lingue, Ma y Sá,138,0,0,0,1,0
+,0, Santiago, San Camilo, entre Argomedo y Marín, Mi y Vi,139,1,0,1,0,0
+,0, Santiago, Portales, entre Libertad y Maipú, Ju,140,0,1,0,0,0
+,1, Santiago, Romero, entre Libertad y García Reyes, Ma y Vi,141,0,0,1,0,0
+,1, Santiago, Herrera, entre San Pablo y Mapocho, Ma y Mi,142,1,0,0,0,0
+,0, Santiago, Blanco Encalada, entre Club Hípico y Echaurren, Sá,143,0,0,0,1,0
+,0, Santiago, San Agustín, entre Bascuñán Guerrero y Francisco Pizarro, Sá,144,0,0,0,1,0
+,0, Santiago, Aldunate, entre Copiapó y Coquimbo, Ju y Do,145,0,1,0,0,1
+,0, Santiago, Diez de Julio Huamachuco, entre Vicuña Mackenna y Portugal, Do,146,0,0,0,0,1
+,0, Santiago, Roberto Espinoza, entre Victoria y Pedro Lagos, Sá,147,0,0,0,1,0
+,0, Santiago, Pedro Lagos, entre Lira y Carmen, Sá,148,0,0,0,1,0
+,0,Estación Central, San José, entre Juana Weber de Amunátegui y Cinco de Abril, Mi y Sá,149,1,0,0,1,0
+,0,Estación Central, Taitao, entre Aeropuerto y Lemuy, Mi y Sá,150,1,0,0,1,0
+,0,Estación Central, Antártica, entre General Velásquez y Santa Teresa con Pingüinos, Ju y Do,151,0,1,0,0,1
+,1,Estación Central, Manuel Rivas Vicuña, entre Cinco de Abril y Torslandia, Ma y Vi,152,0,0,1,0,0
+,0,Estación Central, Quemchi, entre Las Estepas y Palena, Ju y Do,153,0,1,0,0,1
+,1,Estación Central, Luis Cruz Martínez, entre Padre Vicente Irarrázaval y Uspallata, Ma y Vi,154,0,0,1,0,0
+,1,Estación Central, Curacaví, entre Cinco de Abril y Las Parcelas, Ma y Vi,155,0,0,1,0,0
+,1,Estación Central, Las Violetas, entre El Boldo y Las Petunias, Ma y Vi,156,0,0,1,0,0
+,0,Estación Central, Santa Petronila, entre Embajador Quintana y Porto Seguro, Ju y Do,157,0,1,0,0,1
+,1,Estación Central, Santa Teresa, entre Cinco de Abril y Veteranos del Setenta y Nueve, Ma y Vi,158,0,0,1,0,0
+,0,Estación Central, Manuel Thompson, entre General Amengual y Recreo, Ju y Do,159,0,1,0,0,1
+,0,Vitacura, El Aromo, entre Padre Hurtado Norte y La Cortada, Ju y Sá,160,0,1,0,1,0
+,0,Vitacura, Monseñor Escrivá de Balaguer, entre Luis Carrera y la entrada a CasaPiedra, Ju y Vi,161,0,1,1,0,0
