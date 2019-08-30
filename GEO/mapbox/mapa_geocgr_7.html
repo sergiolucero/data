@@ -1,0 +1,104 @@
+<html>
+  <head>
+    <title>Proyectos GeoCGR Cuarta Región</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    
+    <script src="https://unpkg.com/deck.gl@^6.2.0/deckgl.min.js"></script>
+    <script src="https://api.tiles.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://api.tiles.mapbox.com/mapbox-gl-js/v0.50.0/mapbox-gl.css">
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+
+    <style type="text/css">
+      body { font-family: Helvetica, Arial, sans-serif; width: 100vw; height: 100vh; margin: 0; }
+      #control-panel { position: absolute; background: #fff; top: 0; left: 0; margin: 12px; padding: 20px; font-size: 12px; line-height: 1.5; z-index: 1; }
+      label { display: inline-block; width: 140px; }
+    </style>
+  </head>
+
+  <body>
+    <div id="control-panel">
+      <div>
+        <label>Radio</label>
+        <input id="radius" type="range" min="1000" max="20000" step="1000" value="1000"></input>
+        <span id="radius-value"></span>
+      </div>
+      <div>
+        <label>Cobertura</label>
+        <input id="coverage" type="range" min="0" max="1" step="0.1" value="1"></input>
+        <span id="coverage-value"></span>
+      </div>
+      <div>
+        <label>Percentil Superior</label>
+        <input id="upperPercentile" type="range" min="90" max="100" step="1" value="100"></input>
+        <span id="upperPercentile-value"></span>
+      </div>
+    </div>
+  </body>
+
+  <script type="text/javascript">
+
+    mapboxgl.accessToken = 'pk.eyJ1IjoidWJlcmRhdGEiLCJhIjoiY2pudzRtaWloMDAzcTN2bzN1aXdxZHB5bSJ9.2bkj3IiRC8wj3jLThvDGdA';
+
+    const {MapboxLayer, HexagonLayer} = deck;
+
+    const map = new mapboxgl.Map({
+      container: document.body,
+      style: 'mapbox://styles/mapbox/dark-v9',
+      center: [-70.2324, -33.4157],
+      zoom: 4,
+      pitch: 40.5
+    });
+
+    const DATA_URL = 'https://raw.githubusercontent.com/sergiolucero/data/master/GEO/GeoCGR/geocgr_R7.csv';
+    const OPTIONS = ['radius', 'coverage', 'upperPercentile'];
+    const COLOR_RANGE = [
+      [1, 152, 189],
+      [73, 227, 206],
+      [216, 254, 181],
+      [254, 237, 177],
+      [254, 173, 84],
+      [209, 55, 78]
+    ];
+    const LIGHT_SETTINGS = {
+      lightsPosition: [-0.144528, 49.739968, 8000, -3.807751, 54.104682, 8000],
+      ambientRatio: 0.4,
+      diffuseRatio: 0.6,
+      specularRatio: 0.2,
+      lightsStrength: [0.8, 0.0, 0.8, 0.0],
+      numberOfLights: 2
+    };
+
+    let hexagonLayer;
+
+    map.on('load', () => {
+      hexagonLayer = new MapboxLayer({
+        type: HexagonLayer,
+        id: 'heatmap',
+        data: d3.csv(DATA_URL),
+        radius: 1000,
+        coverage: 1,
+        upperPercentile: 100,
+        colorRange: COLOR_RANGE,
+        elevationRange: [0, 1000],
+        elevationScale: 250,
+        extruded: true,
+        getPosition: d => [Number(d.lng), Number(d.lat)],
+        lightSettings: LIGHT_SETTINGS,
+        opacity: 1
+      });
+
+      map.addLayer(hexagonLayer, 'waterway-label');
+    });
+
+    OPTIONS.forEach(key => {
+      document.getElementById(key).oninput = (evt) => {
+        const value = Number(evt.target.value);
+        document.getElementById(key + '-value').innerHTML = value;
+        if (hexagonLayer) {
+          hexagonLayer.setProps({[key]: value});
+        }
+      };
+    });
+
+  </script>
+</html>
