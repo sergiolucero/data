@@ -19,3 +19,5 @@ Adicionalmente sería bueno almacenar herramientas:
 * CODE: s3_to_github.py
 
 Para cada formato, debiéramos elegir (?) entre los formatos shapefile, geoJSON y CSV/Parquet.
+
+Anaconda: https://repo.anaconda.com/archive/Anaconda3-2019.10-Linux-x86_64.sh
