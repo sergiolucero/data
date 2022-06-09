@@ -1,0 +1,371 @@
+Nombre,Direccion,Comuna,Horarios,Latitud,Longitud
+SAN MARTÍN,"Arturo Prat, entre Santa Teresita y 14 de Octubre",Cerrillos,Mi y Sá,-33.5000939,-70.7248766
+MODELO,"Costanera Norte, entre Lo Errázuriz y Francia",Cerrillos,Ma y Vi,-33.4782488,-70.7203357
+EL MIRADOR,"El Mirador, entre Divino Maestro y Las Torres",Cerrillos,Mi y Sá,-33.5023077,-70.7290098
+VILLA MÉXICO,"Cinco de Abril, entre Salvador Allende y Los Tilos",Cerrillos,Ju y Do,-33.5078107,-70.7300173
+BUZETA,"Avenida Cuatro, entre Buzeta y San Andrés",Cerrillos,Mi y Sá,-33.4805499,-70.6902166
+SALOMÓN SACK,"Salomón Sack, entre Los Lirios y Comercio",Cerrillos,Ma y Vi,-33.494294,-70.7162326
+FERROCARRIL,"Pedro Lagos Palacios, entre Lo Errázuriz y Santa Ana",Cerrillos,Ju y Do,-33.490308,-70.7229866
+SARA GAJARDO,"Lo López, entre Neptuno y Domingo Faustino Sarmiento",Cerro Navia,Ma y Vi,-33.4187601,-70.7233146
+LA CAPILLA,"La Capilla, entre Resbalón y Huelén",Cerro Navia,Ma y Vi,-33.4150162,-70.7382415
+LOYOLA,"Camino de Loyola, entre Neptuno y Las Madreselvas",Cerro Navia,Ju y Do,-33.4364493,-70.7257386
+EL MONTIJO,"Salvador Gutiérrez, entre La Estrella y Rolando Petersen",Cerro Navia,Ju y Do,-33.4313353,-70.7502838
+SALVADOR GUTIÉRREZ,"Salvador Gutiérrez, entre Cinco de Febrero y Santos Medel",Cerro Navia,Ju y Do,-33.4192265,-70.7328337
+ROOSEVELT,"Tomás Alba Edison, entre Jorge Washington y Estados Unidos",Cerro Navia,Ju y Do,-33.433736,-70.7346467
+CAUQUENES,"Cauquenes, entre Lo López e Hipólito Salas",Cerro Navia,Mi y Sá,-33.4271065,-70.721766
+MAPOCHO,"Mapocho, entre Huelén y Resbalón",Cerro Navia,Mi y Sá,-33.4228212,-70.7402393
+MAR DE CHILE,"Mar de Chile, entre Costanera Sur y Las Fragatas",Cerro Navia,Mi y Sá,-33.4181069,-70.7651237
+LA VIÑITA,"La Estrella, entre Mapocho y La Hondonada",Cerro Navia,Ma y Vi,-33.4222262,-70.7519476
+NAHUELBUTA,"Nahuelbuta, entre Dos Oriente y Puntiagudo",Conchalí,Ju,-33.3801439,-70.6822504
+LOS ACACIOS,"Cardenal Caro, entre Los Acacios y Carrera Pinto",Conchalí,Ju,-33.373452,-70.686104
+SANDRA,"Sandra, entre Catalina y Alberto González",Conchalí,Ma,-33.3878242,-70.6665479
+CONCHALÍ-EL PINO,"El Pino, entre Av",Conchalí,Independencia y Quilicura. Vi,-33.3836316,-70.6846109
+MONTERREY,"Monterrey, entre Barón de Juras Reales y Vivaceta",Conchalí,Mi,-33.3943319,-70.6747886
+CARDENAL CARO,"Cardenal Caro, entre Independencia y Estocolmo",Conchalí,Ma,-33.3745975,-70.682299
+TENIENTE PONCE,"Teniente Ponce, entre Sandino y La Palmilla",Conchalí,Mi,-33.3879619,-70.6692979
+BARÓN DE JURAS REALES 4,"Barón de Juras Reales, entre Zapadores y Emperador",Conchalí,Ma,-33.3772664,-70.6914878
+CONCHALÍ-LINCOLN,"Abraham Lincoln, entre El Cortijo y Calle Quilicura",Conchalí,Do,-33.3822485,-70.6852388
+INDEPNDENCIA 4,"Cardenal Caro, entre Pasaje Cuzco y Horacio Johnson",Conchalí,Sá,-33.3760564,-70.668937
+ALBERTO GONZÁLEZ,"Alberto González, entre Zapadores y Principal",Conchalí,Do,-33.3789159,-70.6708245
+BARÓN DE JURAS REALES 2,"Barón de Juras Reales, entre El Olivo y Zapadores",Conchalí,Sá,-33.3863904,-70.662895
+GUANACO NORTE,"Guanaco, entre Principal y Zapadores",Conchalí,Vi.,-33.3863904,-70.662895
+VECINAL SUR,"Vecinal Sur, entre San Francisco y Océano Atlántico",El Bosque,Mi y Sá,-33.5820529,-70.6624301
+SANTA ELENA,"Los Sauces, entre Los Paltos y Los Boldos",El Bosque,Ju y Do,-33.565085,-70.6590396
+LOS CAROLINOS,"Los Carolinos, entre Los Álamos y Los Morros",El Bosque,Ma y Sá,-33.5435498,-70.6651629
+CAMINO DEL INCA,"Camino del Inca, entre Lolol y Los Morros",El Bosque,Ju y Do,-33.5435498,-70.6651629
+CAPITÁN ÁVALOS,"Capitán Ávalos, entre Gran Avenida y Los Morros",El Bosque,Mi y Sá,-33.5435498,-70.6651629
+COVARRUBIAS,"Julio Covarrubias, entre Aviadores y Jorge Luco",El Bosque,Ma y Vi,-33.5533592,-70.6607249
+ARTURO PRAT SUR,"Nueva Poniente, entre Manuel Bulnes y Tomás Yávar",El Bosque,Mi y Sá,-33.5493952,-70.6570399
+EL SAUCE,"Observatorio, entre Los Mimbres y Los Morros",El Bosque,Mi y Sá,-33.5435498,-70.6651629
+VÍCTOR PLAZA MAYORGA,"Víctor Plaza Mayorga, entre Antonio Bórquez Del Solar y Los Copihues",El Bosque,Vi,-33.5488305,-70.6713604
+LAGOS DE CHILE,"Los Nogales, entre Lo Espejo y Dieciocho de Septiembre",El Bosque,Ju y Do,-33.5406264,-70.6811818
+SANTA LAURA,"Luis Barros Borgoño, entre Rengo e Indio Jerónimo",El Bosque,Do,-33.5505764,-70.6882635
+LAS PARCELAS,"Las Parcelas, entre Los Morros y Peñablanca",El Bosque,Ma y Vi,-33.5815894,-70.6727692
+TEMUCO,"Las Canteras, entre Zinc y Lampa",El Bosque,Ma y Vi,-33.5589761,-70.6787503
+BARROS BORGOÑO,"Luis Barros Borgoño, entre Rengo y Javiera Carrera",El Bosque,Mi,-33.5574402,-70.6637029
+RIVAS VICUÑA,"Manuel Rivas Vicuña, entre Cinco de Abril y Torslandia",Estación Central,Ma y Vi,-33.4680836,-70.7130949
+CURACAVÍ,"Curacaví, entre Cinco de Abril y Las Parcelas",Estación Central,Ma y Vi,-33.4724953,-70.7210915
+SAN JOSÉ,"San José, entre Juana Weber de Amunátegui y Cinco de Abril",Estación Central,Mi y Sá,37.3382082,-121.8863286
+SANTA PETRONILA,"Santa Petronila, entre Embajador Quintana y Porto Seguro",Estación Central,Ju y Do,-33.4517103,-70.7049888
+NOGALES,"Antártica, entre General Velásquez y Santa Teresa con Pingüinos",Estación Central,Ju y Do,-82.8627519,135.0
+AMENGUAL,"Manuel Thompson, entre General Amengual y Recreo",Estación Central,Ju y Do,-33.4571074,-70.6967817
+QUEMCHI,"Quemchi, entre Las Estepas y Palena",Estación Central,Ju y Do,-33.4711359,-70.7068685
+SANTA TERESA,"Santa Teresa, entre Cinco de Abril y Veteranos del Setenta y Nueve",Estación Central,Ma y Vi,-33.459097,-70.6917972
+SANTIAGO,"Luis Cruz Martínez, entre Padre Vicente Irarrázaval y Uspallata",Estación Central,Ma y Vi,-33.4745518,-70.6927346
+CRISTO,"Las Violetas, entre El Boldo y Las Petunias",Estación Central,Ma y Vi,-33.4594226,-70.7081446
+TAITAO,"Taitao, entre Aeropuerto y Lemuy",Estación Central,Mi y Sá,-46.3638889,-74.8083333
+PABLO NERUDA,"Pablo Neruda, entre Jacarandá y Del Pincoy",Huechuraba,Mi y Sá,-33.3640879,-70.6297626
+AGUIRRE LUCO,"Carlos Aguirre Luco, entre Elías Lafferte y Las Torres",Huechuraba,Ma,-33.3784219,-70.6419736
+SALVADOR ALLENDE,"Camino al Bosque de Santiago, entre República de Estados Unidos y Los Pinos",Huechuraba,Do,-33.3749422,-70.6334318
+GUANACO SUR,"Guanaco, entre Einstein y Av",Independencia,México. Ju y Do,-35.675147,-71.542969
+COLÓN,"Colón, entre Fermín Vivaceta y Coronel Agustín López de Alcázar",Independencia,Ju y Do,-33.4253963,-70.6576915
+EL PINO,"El Pino, entre Gamero y Los Ángeles",Independencia,Mi y Sá,-33.4222176,-70.6666953
+CRONISTA GÓNGORA,"Cronista Góngora, entre Padre Faustino Gazziero (ex Corregimiento) y Juliet",Independencia,Mi y Sá,-33.4124624,-70.6683859
+MIRADOR VIEJO,"Las Cañas, entre Nueva de Matte y Nueva Uno",Independencia,Mi y Sá,-33.408734,-70.6749751
+MARURI,"Maruri, entre Domingo Santa María y Jacobo Vial",Independencia,Ma y Vi,-33.4156338,-70.6591683
+ENRIQUE SORO,"Enrique Soro, entre Salomón Sack y Panamericana Norte",Independencia,Ma y Vi,-33.41883,-70.6724957
+BALLESTEROS,"Inés Rivas, entre Alcalde Barrera y Manuel Rengifo",La Cisterna,Ju y Do,-33.5376556,-70.681895
+BRISAS DEL MAIPO,"Brisas del Maipo, entre Industrias y Letras",La Cisterna,Ma y Vi,-33.5298772,-70.6733323
+LO OVALLE,"Fuenzalida Urrejola, entre Angamos e Iquique",La Cisterna,Ju y Do,-33.5175394,-70.654076
+GOYCOLEA,"Goycolea, entre Peró y Cerro Negro",La Cisterna,Ma y Vi,-33.5428344,-70.6515878
+LUCERNA,"Lucerna, entre Colón y San Luis",La Cisterna,Ju y Do,-33.5187618,-70.6658915
+ARTURO PRAT NORTE,"Nueva Poniente, entre Vicuña Mackenna y Manuel Bulnes",La Cisterna,Mi,-33.5484689,-70.655179
+SAN RAMÓN,"Alejandro Vial, entre Uruguay y Las Brisas",La Cisterna,Mi y Sá,-33.5306529,-70.6545341
+CHAITÉN,"Chaitén, entre Rojas Magallanes y Doctor Sótero Del Río",La Florida,Ju,-33.5355571,-70.5996173
+VILLA O'HIGGINS 1,"Avenida Uno, entre José Miguel Carrera Poniente y Trinidad Poniente",La Florida,Mi,-33.5504143,-70.606529
+VILLA O'HIGGINS 2,"Calle B, entre Santa Julia y Gerónimo de Alderete",La Florida,Vi,-33.5281089,-70.5829638
+BELLAVISTA-SAN JORGE 1,"San Jorge, entre Juan Pablo II y Calle Nueva",La Florida,Vi,-33.5270033,-70.5902373
+VILLA O'HIGGINS 3,"Santa Amalia, entre Santa Raquel y Manutara",La Florida,á,-33.5428473,-70.6034449
+CALAMA,"Calama, entre Doctor Sótero del Río y Pasaje San Martín",La Florida,Ju,-33.5380195,-70.6077057
+LOS COPÍHUES 1,"Departamental, entre Volcán Llaima y Los Cerezos",La Florida,Ju y Do,-33.5125985,-70.5536469
+VILLA O'HIGGINS 4,"Los Alerces, entre Santa Raquel y Manutara",La Florida,Vi,-33.5418544,-70.603426
+BELLAVISTA-PUDETO,"Pudeto, entre Cabildo y San Carlos de Ancud",La Florida,Do,-33.5197387,-70.6013638
+BELLAVISTA-MÉXICO,"Santa Amalia, entre Colombia y México",La Florida,Mi,4.570868,-74.297333
+BELLAVISTA-SAN JOSÉ DE LA ESTRELLA,"San José de la Estrella, entre México y Av",La Florida,La Florida. Ma,23.7275239,-103.4486435
+MANUEL RODRÍGUEZ 1,"Santa Amalia, entre Pasaje Los Pinos y dos pasajes después",La Florida,i,-33.5226882,-70.5987142
+LOS COPÍHUES 2,Av,La Florida,"La Florida, entre Departamental y Nazario Chacón Zamora. Sá",-33.5338641,-70.5740078
+LOS COPÍHUES 3,"Gerónimo de Alderete, entre México y Alonso de Ercilla",La Florida,Ma,-33.52329,-70.5860636
+LOS COPÍHUES 4,"Nazario Chacón Zamora, entre Walker Martínez y Pasaje Los Caiquenes",La Florida,Vi,-33.5327866,-70.6077028
+LA UNIÓN 1,"General Arriagada, entre Bahía Catalina y Julio César",La Florida,Sá,-33.5584896,-70.6061017
+VILLA O'HIGGINS 5,"Padre Luis de Valdivia, entre Américo Vespucio y Punta Arenas",La Florida,Mi,-33.5377524,-70.6102231
+UNIÓN-SANTA RAQUEL,"General Arriagada, entre Santa Raquel y Manutara",La Florida,Do,-33.5587057,-70.6010688
+MANUEL RODRÍGUEZ 2,"José Miguel Carrera, entre Vicuña Mackenna y Bacteriológico",La Florida,Do,-33.5544482,-70.5811219
+BELLAVISTA-EL ULMO,"El Ulmo, entre Lago Pirihueico y El Belloto",La Florida,Vi,-33.5165947,-70.5955137
+BELLAVISTA-SAN JORGE 2,"San Jorge, entre Vicuña Mackenna y Calle Diez",La Florida,Sá,-33.55972,-70.5790212
+MANUEL RODRÍGUEZ 3,"Diego Portales, entre Valle Hermoso y Manuel Bulnes",La Florida,Mi,-33.5596846,-70.5616791
+BELLAVISTA-ENRIUE OLIVARES,"Enrique Olivares, entre Colombia y Perú",La Florida,Ju,4.570868,-74.297333
+MANUEL RODRÍGUEZ 4,"México, entre San José de la Estrella y San Jorge",La Florida,Ju,23.634501,-102.552784
+MANUEL RODRÍGUEZ-EL PARQUE,Av,La Florida,"El Parque, entre México y Calle Nueva. Ma",-33.5338641,-70.5740078
+MANUEL RODRÍGUEZ-SAN JORGE,"San Jorge, entre México y Calle Nueva",La Florida,Ma,19.4326077,-99.133208
+VILLA O'HIGGINS 6,"Rojas Magallanes, entre Américo Vespucio y Lircay",La Florida,Do,-33.5355483,-70.6011133
+LA UNIÓN 2,"San José de la Estrella, entre Bahía Catalina y Punta Arenas",La Florida,Vi,-33.5541259,-70.6126991
+LA UNIÓN 3,"Jorge Cisternas Lema, entre La Serena y Bahía Catalina",La Florida,Ma,-33.5580728,-70.6115854
+VILLA O'HIGGINS-CALLE B Nº. 1,"Calle B, entre Santa Julia y Gerónimo de Alderete",La Florida,Ma,-33.5281089,-70.5829638
+VILLA O'HIGGINS-CALLE B Nº. 2,"Los Alerces, entre Santa Raquel y Manutara",La Florida,Ma,-33.5418544,-70.603426
+EX INDUSTRIALES,"Calle O, entre Central y el Callejón Lo Ovalle",La Granja,Ju y Do,-33.5162683,-70.6241245
+TOMÉ,Av,La Granja,"Tomé, entre Av. Santa Rosa y Los Vilos. Ma y Vi",-33.5396778,-70.6275393
+MANCO CAPAC,"Manco Capac, entre Coronel y Punta Arenas",La Granja,Ju y Do,-33.5509375,-70.61076
+OSORNO,"Osorno, entre Coronel y Américo Vespucio",La Granja,Ma y Vi,-40.5761897,-73.1149469
+SANTA CLAUDIA,"Vicuña Mackenna, entre Joaquín Edwards Bello y Sofía Eastmann de Hunneeus",La Granja,Ma y Vi,-33.5563097,-70.6240643
+LA COPA,"Mañío, entre Yungay y Padre Esteban Gumucio",La Granja,Ma y Vi,-33.5238194,-70.6210402
+TACORA,Av,La Granja,"Sur, entre Los Vilos y El Tabo. Mi y Sá",-33.5396778,-70.6275393
+MALAQUÍAS CONCHA,"Combarbalá, entre Coronel y Quilpué",La Granja,Mi y Sá,-33.5295252,-70.6216541
+CORONEL,"Coronel, entre Tomé y Valdivia",La Granja,Ju y Do,-33.5333568,-70.6185893
+MAÑÍO,"Sebastopol, entre El Parque y 27 Oriente",La Granja,Mi y Sá,-33.5184023,-70.6206543
+POETA NERUDA,"Canto General, entre Santa Rosa y Joaquín Edwards Bello",La Granja,Ju y Do,-33.5525488,-70.6246005
+JOAO GOULART,"Padre Esteban Gumucio, entre Los Vilos y La Serena",La Granja,Mi y Sá,-33.5583551,-70.6157427
+LA SERENA,"Pedro Lira, entre La Serena y Bahía Catalina",La Granja,Mi y Sá,-33.5530627,-70.6129768
+SAN RAFAEL,"Muñoz Gamero, entre Porto Alegre y Patagonia",La Pintana,Ma y Vi,-33.5810832,-70.6340106
+JOHN KENNEDY,"John Kennedy, entre Bernardino Parada y Julio Barrenechea",La Pintana,Mi y Sá,-33.5789468,-70.6475366
+VEINTIUNO DE MAYO,"Bernardino Parada, entre José Toribio Medina y Profesor Julio Chávez",La Pintana,Ma y Vi,-33.5788726,-70.6482269
+JULIO RAMÍREZ,"Julio Barrenechea, entre San Francisco y Julio Chávez",La Pintana,Ju,-33.5018364,-70.6073076
+JUANITA,"Juanita, entre El Ombú y Batallón Maipo",La Pintana,Ju y Do,-33.5885657,-70.6236068
+EL CASTILLO,"El Fundador, entre Batallón Chacabuco y El Ombú",La Pintana,Ma y Vi,-33.5904216,-70.612848
+EL OMBÚ,"El Ombú, entre Pasaje El Hualle y Sexto de Línea",La Pintana,Mi y Sá,-33.5918845,-70.616106
+ALMIRANTE LATORRE,"Almirante Latorre, entre Observatorio y General Franco",La Pintana,Mi y Sá,-33.5636446,-70.6468361
+LAS ÁGUILAS,"Las Águilas, entre General Franco y Antonio Machado, para doblar por esta última y rematar en Francisco de Goya",La Pintana,Ma y Vi,-33.5618643,-70.6502441
+VICENTE LLANOS,"Vicente Llanos, entre San Francisco y Pasaje El Sueño",La Pintana,Ju y Do,-33.5564888,-70.6512804
+EL BOSQUE,"Joaquín Edwards Bello, entre Santo Tomás y Paulo VI",La Pintana,Mi y Sá,-33.5617882,-70.6203498
+EL SEMBRADOR,"El Sembrador, entre Pedro Aguirre Cerda y El Bosque",La Pintana,Ju y Do,-33.5597762,-70.6345596
+SANTA MAGDALENA,"Pedro Aguirre Cerda, entre Observatorio y Antonio Machado",La Pintana,Ma y Vi,-33.5654554,-70.6325917
+SANTO TOMÁS,"Santo Tomás, entre Bahía Catalina y La Serena",La Pintana,Ma y Vi,-33.5756904,-70.6523978
+LAS PARCELAS,"Las Parcelas, entre Edith Madge y General Arriagada",La Pintana,Mi y Sá,-33.5619251,-70.6182236
+JOAQUÍN EDWARDS BELLO II,"Joaquín Edwards Bello, entre Santo Tomás y Aníbal Hunneeus",La Pintana,Ju,-33.5582454,-70.6235235
+TOBALABA,"Tobalaba, entre Príncipe de Gales y Aguas Claras",La Reina,Mi y Sá,-33.4388937,-70.5564859
+CHACAREROS DE LA REINA,"Bilbao, entre Florencio Barrios y Padre Hurtado",La Reina,Ma y Sá,-33.4375034,-70.5366598
+CLORINDA HENRÍQUEZ,"Clorinda Henríquez, entre Larraín y Sánchez Fontecilla",La Reina,Do,-33.4508217,-70.5477164
+QUINCHAMALÍ,"Quinchamalí, entre Pasaje 12 y Chapilca",La Reina,o,-33.457018,-70.538085
+LOS DOMINICOS,"Los Dominicos, entre Apoquindo y Camino El Alba",Las Condes,Sá,-33.4064846,-70.5446696
+PATRICIA,"Patricia, entre Paul Harris y Vital Apoquindo",Las Condes,Do,-33.4219678,-70.5296504
+CHACAREROS DE MANQUEHUE,Manquehue Sur con Isabel La Católica,Las Condes,Mi y Do,-33.4252721,-70.5641702
+PRESIDENTE RIESCO,"Presidente Riesco, entre Manquehue Norte y Rosario Norte",Las Condes,Mi,-33.4022569,-70.5697944
+LOS QUINCHEROS,Los Quincheros con El Esfuerzo,Lo Barnechea,Sá,-33.3582296,-70.5028354
+PERSA LO BARNECHEA,"Padre Arteaga, entre Raúl Labbé y Cuatro Vientos",Lo Barnechea,Do,-33.3625995,-70.5086376
+JOSÉ MARÍA CARO,"Fernández Albano, entre Av",Lo Espejo,Central y Ferrocarril. Ju y Do,-33.5253117,-70.7229694
+PABLO NERUDA,"Pablo Neruda, entre 9 de Enero y Balmaceda",Lo Espejo,Ju y Do,-33.5271878,-70.697734
+COOPERACIÓN,"Cooperación, entre Lo Ovalle y Buenaventura",Lo Espejo,Mi y Sá,-33.5046965,-70.6874703
+LA HABANA,"La Habana, entre Eduardo Frei Montalva y Américo Vespucio",Lo Espejo,Mi y Sá,-33.5220498,-70.690565
+JÚPITER,"Júpiter, entre Libertad y Venus",Lo Espejo,Ma y Vi,-33.5253256,-70.6924516
+SANTA OLGA,"Adolfo López Mateo, entre Acapulco y Durango",Lo Espejo,Mi y Sá,-33.5211693,-70.6861467
+VALPARAÍSO,"Valparaíso, entre Lo Ovalle y Lincoln",Lo Espejo,Ma y Vi,-33.5093824,-70.6743456
+BALMACEDA,"Balmaceda, entre Astaburuaga y La Sierra",Lo Espejo,Ma y Vi,-33.5312325,-70.6916536
+IBIS,"Ibis, entre Ovalle e Isla Decepción",Lo Prado,Mi y Sá,-33.452249,-70.7131876
+LAS TORRES,"Las Torres, entre San Pablo y Los Copíhues",Lo Prado,Mi y Sá,-33.44459,-70.7337701
+VILLA KENNEDY,"Las Torres, entre Yale y Milton Rossel",Lo Prado,Ma y Vi,-33.4510069,-70.7310272
+SANTA MARTA,"Santa Marta, entre Dorsal y Portales",Lo Prado,Ju y Do,-33.445334,-70.7154059
+PAULA JARAQUEMADA,"Paula Jaraquemada, entre Corona Sueca y Gabriela Mistral",Lo Prado,Ju y Do,-33.4505453,-70.7376822
+NEPTUNO,"Neptuno, entre Reina Maud y Ministro Mora",Lo Prado,Ma y Vi,-33.4505169,-70.7179716
+LOS TRES ANTONIOS,"Los Tres Antonios, entre Escuela Agrícola y Pasaje Uno",Macul,Mi,-33.4851471,-70.5992005
+LA CATÓLICA,"Ramón Cruz, entre Los Plátanos y Siria",Macul,Ju y Do,-33.4836937,-70.5846596
+SANTA JULIA,"Santa Julia, entre Rodrigo de Araya y Los Espinos",Macul,Sá,-33.4738638,-70.5921775
+JUAN PINTO DURÁN,"El Líbano, entre Amador Neghme Rodríguez y Las Codornices",Macul,Ju y Do,-33.504806,-70.597968
+SANTA CAROLINA,"Castillo Urízar, entre Quilín y Los Olmos",Macul,Do,-33.4850282,-70.6094628
+MODELO QUILÍN,"Costado Quilín, entre Quilín y San Mateo",Macul,Ma y Sá,-33.4900547,-70.5850468
+LAS CODORNICES,"Las Codornices, entre Missouri y Los Milanos",Macul,Ju y Do,-33.5060797,-70.5940858
+VILLA SANTA ELENA,"Marathón, entre Ortíz de Zárate y el Estadio Monumental",Macul,Ma y Vi,-33.5066621,-70.6060094
+RAMÓN CRUZ,"Ramón Cruz, entre Amanda Labarca y Quilín",Macul,Ma y Vi,-33.498796,-70.5952827
+GUAYAQUIL,"O'Higgins, entre Victoria y Olimpo",Maipú,Ma y Vi,-33.5136465,-70.7754431
+LOS HÉROES,"Hermógenes Pérez de Arce, entre Silva Carvallo y Andrés Amenábar",Maipú,Mi y Sá,-33.5295356,-70.7715143
+LAS PARCELAS,"Las Parcelas, entre Sur de Chile y Las Torres",Maipú,Ju y Do,-33.4760134,-70.7310031
+EL CONQUISTADOR,"El Conquistador, entre Las Tinajas y Portales",Maipú,Ma y Vi,-33.516356,-70.7969628
+LUMEN,"Lumen, entre 3 Norte y Primo de Rivera",Maipú,Mi y Sá,-33.4927087,-70.7432071
+TRES PONIENTE,"Tres Poniente, entre Maipú y Camino a Rinconada",Maipú,Ju y Do,-33.5078803,-70.7913777
+LAS NACIONES,"Las Naciones, entre Portales y Camino a Rinconada",Maipú,Ju y Do,-33.5183218,-70.7860425
+EL ABRAZO,"Las Industrias, entre Cuatro Poniente y Egipto",Maipú,Ju y Do,26.820553,30.802498
+PADRE HURTADO,"Huáscar, entre Padre Hurtado y San José",Maipú,Ma y Vi,-33.5165866,-70.7779048
+CUATRO ÁLAMOS,"Santa María, entre Vicente Reyes y Segunda Transversal",Maipú,Ma y Vi,-33.5008515,-70.7451936
+INCA DE ORO,"Inca de Oro, entre La Galaxia y Cuatro Poniente",Maipú,Mi y Sá,-33.5125536,-70.7939273
+CIUDAD SATÉLITE,"Caletera Camino a Melipilla, entre Parque Central Poniente y el ingreso a Padre Hurtado",Maipú,Ju y Do,-33.5541732,-70.7953992
+EL DESCANSO,"El Descanso, entre Gustavo Eiffel y Pedro Gallo",Maipú,Mi y Sá,-33.4715785,-70.7418745
+BORGOÑO,"Borgoño, entre Cuatro Poniente y Las Naciones",Maipú,Ma y Vi,-33.5087084,-70.7903271
+LA REFORMA,"La Reforma, entre Jorge Alessandri y Pasaje Excalibur",Maipú,Ma y Vi,-33.4863072,-70.7627656
+TEATRO PRINCESA,"Teatro Princesa, entre Isabel Riquelme y La Sinfonía",Maipú,Ju y Do,-33.4852158,-70.7377715
+ISABEL RIQUELME,"Isabel Riquelme, entre Santa Rosa y Simón Bolívar",Maipú,Ma y Vi,-33.4785936,-70.7302363
+CAMINO A RINCONADA,"Camino a Rinconada, entre La Galaxia y Regimiento Atacama",Maipú,Mi y Sá,-27.5660558,-70.050314
+SAN LUIS,"Tres Poniente, entre Portales y Camino a Rinconada",Maipú,Mi y Sá,-33.518269,-70.7791844
+JUDEA,"Las Industrias, entre Judea y Jorge Guerra",Maipú,Ma y Vi,-33.5399712,-70.770605
+LA GRUTA,"Gabriel González Videla, entre Cuatro Poniente y Caleta Camarones",Maipú,Mi y Sá,-18.8333326,-69.7439002
+INCA DE ORO 2,"Inca de Oro, entre Cuatro Poniente y La Galxia",Maipú,Ju y Do,-33.5123495,-70.7907619
+FERROCARRIL,"Ferrocarril, entre Domingo Faustino Sarmiento y Cerro Barón",Maipú,Ju y Do,-33.5402897,-70.7770195
+ESQUINA BLANCA,"Ferrocarril, entre Esquina Blanca e Irarrázaval",Maipú,"Ju y Do, como complemento de la cerrillana Feria de Villa México.",-33.4538736,-70.6015986
+GUILLERMO MANN,"Guillermo Mann, entre Pedro de Valdivia y Marathón",Ñuñoa,Ma y Vi,-33.4677696,-70.6139162
+MATTA ORIENTE,"Matta Oriente, entre Irarrázaval y Lo Encalada",Ñuñoa,Mi y Sá,-33.4522465,-70.625416
+SAN EUGENIO,"San Eugenio, entre Carlos Dittborn y Guillermo Mann",Ñuñoa,Sá,-33.4669066,-70.6235847
+LOS ALERCES,"Capitán Ignacio Carrera Pinto, entre Juan Moya y Los Alerces",Ñuñoa,Mi,-33.4712387,-70.6056339
+ORTÚZAR,"Ortúzar, entre Simón Bolívar y Estrella Solitaria",Ñuñoa,Do,-33.4484151,-70.5835687
+LOS AROMOS,"Juan Gómez Millas, entre Pedro de Valdivia y Los Tres Antonios",Ñuñoa,Sá,-33.4613934,-70.6060657
+EMILIA TÉLLEZ,"Emilia Téllez, entre Coventry y Bremen",Ñuñoa,Mi y Sá,-33.4416472,-70.581577
+DUBLÉ ALMEYDA,"Dublé Almeyda, entre Lo Plaza y Ramón Cruz",Ñuñoa,Vi,-33.4588999,-70.5825877
+MARÍA CELESTE,Av,Ñuñoa,"Grecia, entre Américo Vespucio y Ramón Cruz. Vi y Do",-33.460996,-70.6231062
+GRECIA MODELO,"Nueva Dos, entre Marathón y Francisco Meneses",Ñuñoa,Ju y Do,-33.4677023,-70.6139305
+CENTRO AMÉRICA,"Centro América, entre Av",Pedro Aguirre Cerda,Central y Haití. Ju y Do,-33.4939032,-70.6845173
+FÉLIX MENDELSSOHN,"Félix Mendelssohn, entre Lazo y La Marina",Pedro Aguirre Cerda,Mi y Sá,-33.494414,-70.6731805
+ENRIQUE MATTE,"Enrique Matte, entre Club Hípico y La Marina",Pedro Aguirre Cerda,Mi y Sá,-33.4824573,-70.6647901
+PASEO GROHNERT,"Paseo Grohnert, entre Dpartamental y Bombero Ossandón",Pedro Aguirre Cerda,Ju y Do,-33.4975127,-70.6801139
+DOS DE ABRIL,"Dos de Abril, entre Ernesto Molina y Primero de Mayo",Pedro Aguirre Cerda,Ma y Vi,-33.4865307,-70.6797246
+30 DE OCTUBRE,"Galo González, entre 30 de Octubre y Carlos Marx",Pedro Aguirre Cerda,Mi y Sá,-33.48558,-70.6764154
+DÁVILA,"Manuela Errázuriz, entre Melinka y Pirihueico",Pedro Aguirre Cerda,Mi y Sá,-33.5060515,-70.6760863
+DEPARTAMENTAL,"Departamental, entre Los Clarines y Los Cerezos",Peñalolén,Ju y Do,-33.5039763,-70.5743458
+LOS PRESIDENTES,"Caracas, entre Los Presidentes y Bolívar",Peñalolén,Mi y Sá,-33.4719116,-70.5627854
+ICTINOS,"Ictinos, entre Oriental y Grecia",Peñalolén,Sá,-33.4666899,-70.5607965
+JUAN PABLO II,"El Valle, entre Consistorial y Frontera",Peñalolén,Ma y Vi,-33.4834809,-70.5467306
+JOSÉ ARRIETA,"José Arrieta, entre Tobalaba y Diego Rojas",Peñalolén,Ju y Do,-33.4637789,-70.5566258
+EL PARRAL,"El Valle, entre Afluente y El Litoral",Peñalolén,Ju,-33.4773148,-70.5681284
+LOS MOLINEROS,"Los Molineros, entre Grecia y Laura Rodríguez",Peñalolén,Mi y Sá,-33.4707233,-70.5687509
+LAS TORRES,"Calle 465, entre Los Cerezos y Los Mares",Peñalolén,Sá,-33.5052906,-70.5768471
+SAN LUIS DE MACUL,"Tucapel, entre Los Talladores y Los Arrieros",Peñalolén,Mi,-33.5055257,-70.5668718
+LAS PERDICES,"Las Perdices, entre Los Baqueanos y Valle Hermoso",Peñalolén,Ma y Sá,-33.4734932,-70.5326211
+PALENA,"Consistorial, entre Tagua-Tagua y Las Parcelas",Peñalolén,Mi y Do,-33.473714,-70.5422393
+LOS MARES,"Horacio Toro, entre San Luis de Macul y Las Brisas",Peñalolén,Ma y Vi,-33.5060435,-70.5810108
+LOS CONCILIOS,"Los Concilios, entre Arquitecto Pauly y Chile-España",Providencia,Vi,-33.4416815,-70.5932255
+SANTA MARÍA,"Santa María, entre Calle del Arzobispo y Los Piñones",Providencia,Ju y Do,-33.4314552,-70.6264781
+PROVIDENCIA,"Manuel Montt, entre Santa Isabel y Obispo Alday",Providencia,Sá,-33.4468168,-70.6138924
+LA ESTRELLA,"La Estrella, entre Laguna Sur y Los Mares",Pudahuel,Ju y Do,-33.4601755,-70.7522302
+SERRANO,"Serrano, entre San Daniel y Yungay",Pudahuel,Ju y Do,-33.4342973,-70.7657945
+SANTA CORINA,"Corona Sueca, entre Los Ediles y El Salitre",Pudahuel,Mi y Sá,-33.4475606,-70.7502314
+FALDAS DEL MORRO,"Faldas del Morro, entre La Estrella y Osa Mayor",Pudahuel,Ju y Do,-33.4486637,-70.7543376
+VICTORIA,"Victoria, entre Las Peñas y Dos Coronas",Pudahuel,Ma y Vi,-33.4361825,-70.7579282
+TENIENTE CRUZ,"Teniente Cruz, entre Ricardo Vial y San Francisco",Pudahuel,Ma y Vi,-33.4418768,-70.7406115
+LA TRAVESÍA 1,"La Travesía, entre Oceanía e Isla Grande de Tierra del Fuego",Pudahuel,Ma y Vi,-33.4590345,-70.7605024
+LA TRAVESÍA 2,"La Travesía, entre Teniente Cruz y Mar de Drake",Pudahuel,Mi y Sá,-33.4611494,-70.7463607
+LOS NOGALES 1,"Miguel Ángel, entre Ejército Libertador y Creta",Puente Alto,Ma,-33.5770589,-70.6038606
+LOS NOGALES 2,"Ulises, entre Gabriela y Venus",Puente Alto,Mi,-33.6186082,-70.5906057
+LOS NOGALES 3,"Nemesio Vicuña, entre Las Nieves Oriente y San Hugo",Puente Alto,Ju,-33.5936887,-70.5732758
+LOS NOGALES 4,"Creta, entre Sagasca y Gabriela",Puente Alto,Vi,-33.5858326,-70.6015877
+LOS NOGALES 5,"Las Nieves Oriente, entre San Juan y Los Maillines",Puente Alto,Do,-33.593503,-70.5752523
+LICAN-RAY 1,"El Peral, entre México y Las Nieves Oriente",Puente Alto,Ma,-33.5764023,-70.5597306
+LICAN-RAY 2,"El Peñón, entre Valle Central y Nonato Coo",Puente Alto,Mi y Sá,-33.5785479,-70.5695316
+LICAN-RAY 3,"México, entre Los Toros y Bahía Inglesa",Puente Alto,Ju,-33.5628423,-70.5687853
+LICAN-RAY 4,"Punta Blanca, entre Ramón Venegas y El Barquito",Puente Alto,Vi,-33.5853327,-70.5528691
+LICAN-RAY 6,"Las Nieves Oriente, entre El Peñón y Luis Matte Larraín",Puente Alto,Do,-33.5796516,-70.5587241
+EL ESFUERZO 1,"Tomé, entre San Carlos y Caleta Brava",Puente Alto,Ma,-33.598564,-70.5592871
+EL ESFUERZO 2,"Miguel Ángel, entre Coquimbo y Juan de Dios Malebrán",Puente Alto,Mi,-33.5820674,-70.5871004
+EL ESFUERZO 3,"Troncal San Francisco, entre Luis Matte Larraín y Maestro Palomo",Puente Alto,Ju,-33.5853457,-70.5641217
+EL ESFUERZO 4,"La Balanza, entre San Carlos y Domingo Tocornal",Puente Alto,Vi,-33.5971628,-70.5676014
+EL ESFUERZO 5,"Miguel Ángel, entre Juan de Dios Malebrán y Rimbaud",Puente Alto,Sá,-33.5823243,-70.5889207
+EL ESFUERZO 6,"San Carlos, entre Nonato Coo y Cerrito Arriba",Puente Alto,Do,-33.595121,-70.559694
+CASAS VIEJAS 1,"Laja, entre Circunvalación y Marcos Pérez",Puente Alto,Ma,-33.6174562,-70.5768853
+CASAS VIEJAS 2,"El Volcán, entre Cordillera y Valle Hermoso",Puente Alto,Mi,-33.5577929,-70.5626421
+CASAS VIEJAS 3,"Pie Andino, desde Eyzaguirre hacia el sur",Puente Alto,Ju,-33.6125969,-70.5786019
+CASAS VIEJAS 4,"Uruguay, entre San Pedro y Circunvalación",Puente Alto,Vi,-32.522779,-55.765835
+CASAS VIEJAS 5,"Diego Portales, entre Av",Puente Alto,La Florida y Las Torres. Sá,-33.6105336,-70.586406
+CASAS VIEJAS 6,"Tomé, entre Los Loros y Circunvalación",Puente Alto,Do,-33.6122812,-70.5575595
+FERIA GRANDE 1,"Juan de Dios Malebrán, entre Ernesto Alvear y Teniente Bello",Puente Alto,Ma,-33.605546,-70.582811
+FERIA GRANDE 2,"Eduardo Cordero, entre Santa Elena y Domeyko",Puente Alto,Mi,-33.6056698,-70.5677959
+FERIA GRANDE 3,"Ejército Libertador, entre Arturo Prat y Real Audiencia",Puente Alto,Ju,-33.6226471,-70.5895098
+FERIA GRANDE 4,"Luis Matte Larraín, entre 5º",Puente Alto,Centenario y Carlos Aguirre Luco. Vi,-33.5860325,-70.5803062
+FERIA GRANDE 4.1,"Óscar Bonilla, entre Domingo Tocornal y La Viña",Puente Alto,Vi,-33.6118504,-70.5937559
+FERIA GRANDE 5,"Santa Elena, entre Eyzaguirre e Irarrázaval",Puente Alto,Sá,-33.6068337,-70.5676259
+FERIA GRANDE 6,"Arturo Prat, entre Uruguay y Ejército Libertador",Puente Alto,Do,-33.6186074,-70.5907003
+MARTA BRUNET 1,"Nocedal, entre San Pedro y Sócrates",Puente Alto,Vi,-33.6242536,-70.5941389
+MARTA BRUNET 2,"Reloj de Sol, entre Quitalmahue y Aguas Abajo",Puente Alto,Sá,-33.6321712,-70.6247262
+MARTA BRUNET 3,"Río Colorado, entre Estero Leonera y Estero Puangue",Puente Alto,Do,-33.6150997,-70.6233666
+LUIS MATTE 1,"Río Queltehues, entre Río Yeso y Río Volcán",Puente Alto,Vi,-33.6154005,-70.6189788
+LUIS MATTE 2,"Luis Matte Larraín, entre Palo de Rosa y Osa Mayor",Puente Alto,Sá,-33.6208773,-70.6049964
+LUIS MATTE 3,"Ejército Libertador, entre Luis Matte Larraín y Padre Hurtado",Puente Alto,Do,-33.5876103,-70.5967186
+BAJOS DE MENA 1,"San Pedro, entre Juanita Oriente y El Sauce",Puente Alto,Ma y Vi,-33.6297744,-70.6192398
+BAJOS DE MENA 2,"Sargento Menadier, entre Juanita y Osa Mayor",Puente Alto,Mi y Sá,-33.6208773,-70.6049964
+BAJOS DE MENA 3,"Quitalmahue, entre Calle del Servicio y Curaco de Vélez",Puente Alto,Ju y Do,-33.6262531,-70.6242422
+CHACAREROS 1,"Ángel Pimentel, entre Chayavientos y El Quillay",Puente Alto,Ma,-33.5887263,-70.5709203
+CHACAREROS 2,"El Peral, entre Nonato Coo y El Hidalgo",Puente Alto,Mi,-33.5740172,-70.5759384
+CHACAREROS 3,"Las Nieves Oriente, entre Gabriela Oriente y El Peñón",Puente Alto,Ju,-33.5755126,-70.5599681
+CHACAREROS 4,"Los Toros, entre Nonato Coo y México",Puente Alto,Sá,23.634501,-102.552784
+CHACAREROS 5,"Los Toros, entre Concha y Toro y Nemesio Vicuña",Puente Alto,Do,-33.6003765,-70.5721981
+LAS VIOLETAS,"Las Violetas, entre San Martín y Antonio Varas",Quilicura,Sá,-33.3702749,-70.7443993
+LO MARCOLETA 1,"Lo Marcoleta, entre San Enrique y San Luis",Quilicura,Ma,-33.3602459,-70.7451707
+LO MARCOLETA 2,"Lo Marcoleta, entre San Luis y Colo Colo",Quilicura,Mi,-33.3707544,-70.7489162
+LO MARCOLETA 3,"Lo Marcoleta, entre O'Higgins y Lo Ovalle",Quilicura,Ju,-33.3618393,-70.7296854
+LO MARCOLETA 4,"Lo Marcoleta, entre San Enrique y Los Benedictinos",Quilicura,Vi,-33.3639933,-70.7569453
+SAN ENRIQUE,"San Enrique, entre Matta y San Luis",Quilicura,Do.,-33.3635065,-70.7531803
+VILLA SODIMAC,"Séptimo de Línea, entre Matta y Los Europeos",Quilicura,Ju,-33.3612407,-70.7144863
+HERMANOS CARRERA,"Lo Marcoleta, entre Lo Cruzat y Las Torres",Quilicura,Sá,-33.353979,-70.7340309
+BERNARDO O'HIGGINS,"O'Higgins, entre Doña Leticia y Ana Frank",Quilicura,Sá,-33.3629858,-70.7298327
+CARAMPANGUE,"Carampangue, entre Lo Campino y Las Águilas",Quilicura,Do,-33.3696428,-70.7185203
+VOLCÁN VILLARRICA,"Volcán Villarrica, entre Matta y San Luis",Quilicura,Ma,-33.3635065,-70.7531803
+RAMÓN ROSALES,"Ramón Rosales, entre Las Torres y De la Vega",Quilicura,Mi,-33.3703385,-70.7210551
+KIáLIMANDJARO,"Los Alpes, entre Kilimandjaro y Rigoberto Jara",Quilicura,Sá,-33.3551905,-70.7433761
+TOCONAO,"Toconao, entre Valle de la Luna y San Luis",Quilicura,Ju,-33.3652769,-70.746108
+JOSÉ BESA,"José Besa, entre San Pablo y Vicuña Rozas",Quinta Normal,Ma,-33.4407839,-70.704629
+VICTORINO LAYNEZ,"Victorino Laynez, entre Nueva Imperial y Santo Domingo",Quinta Normal,Mi,-33.4456065,-70.6981729
+EDISON,"Edison, entre Radal y Gaspar de Orense",Quinta Normal,Sá,-33.4388698,-70.703028
+LOS SAUCES,"Los Sauces, entre Samuel Izquierdo y Lo Espinoza",Quinta Normal,Ma y Sá,-33.4096574,-70.7072983
+ALBERDI 1,"Alberdi, entre Salvador Gutiérrez y Hoevel",Quinta Normal,Ju y Do,-33.4229896,-70.711239
+EX LA PLATA,"Augusto Matte, entre Carrascal y Mapocho",Quinta Normal,Do,-33.4235601,-70.6898434
+JOSÉ TOBÍAS,"José Tobías, entre Carlos Ottolenghi y Los Sauces",Quinta Normal,Ju,-33.4144053,-70.7049929
+ALSINO,"Alsino, entre Radal y Bombero Roberts",Quinta Normal,Sá,-33.4251151,-70.7086775
+MARCELO FITTE,"Marcelo Fitte, entre Miguel de Atero y Víctor Hugo",Quinta Normal,Do,-33.4198511,-70.6920855
+TRÁNSITO,"Tránsito, entre Neptuno y Hostos",Quinta Normal,Vi,-33.4351153,-70.710521
+MERCURIO,"Mercurio, entre Loyola y José Joaquín Pérez",Quinta Normal,Mi,-33.4323926,-70.7064638
+EDUARDO CHARME,"Eduardo Charme, entre José Joaquín Pérez y Vicuña Rozas",Quinta Normal,Vi,-33.4320839,-70.7015996
+FRANCISCO JAVIER,"Francisco Javier, entre Nueva Imperial y Porto Seguro",Quinta Normal,Ma,-33.4479555,-70.7002921
+SAN GUMERCINDO,"San Gumercindo, entre Nueva Imperial y Porto Seguro",Quinta Normal,Vi,-33.4449359,-70.6946111
+LOPE DE ULLOA,"Lope de Ulloa, entre Mapocho y Doctor Sierra",Quinta Normal,Ju,-33.4279488,-70.6877598
+ALBERDI 2,"Alberdi, entre Mapocho y José Joaquín Pérez",Quinta Normal,Mi,-33.4317511,-70.6924383
+ZAPADORES,"Zapadores, entre Recoleta y Juan Cristobal",Recoleta,Ma,-33.3851023,-70.6412464
+EINSTEIN,"Einstein, entre Las Torres y Regimiento Buín",Recoleta,Ju,-33.4074167,-70.6342234
+LA SERENA,"La Serena, entre Recoleta y Cardenal Caro",Recoleta,Do,-29.9026691,-71.2519374
+HUECHURABA-RECOLETA,"San José, entre Zapadores y Enrique Donoso",Recoleta,Ju,-33.3951269,-70.6297713
+VALDIVIESO,"Arzobispo Valdivieso, entre Alicante y Siete Norte",Recoleta,Vi,-33.4111871,-70.6279587
+EL ROBLE,"Einstein, entre Albano y Aurelio Díaz Meza",Recoleta,Sá,-33.405493,-70.6351335
+HÉROES DE LA CONCEPCIÓN,"Colombia, entre Reina de Chile y El Cerro",Recoleta,Sá,4.570868,-74.297333
+EL GUANACO,"El Guanaco, entre Einstein y Julio Martínez Prádanos (ex Santa Laura)",Recoleta,Ju y Do,-33.4045715,-70.6586532
+CHACABUCO GRANDE,"Víctor Cuccuini, entre Coronel Del Canto y Campino",Recoleta,Mi,-33.4041507,-70.641112
+CONDELL,"Condell, entre Topocalma y José Miguel Infante",Renca,Mi y Sá,-33.409169,-70.7246305
+BULNES,"Barros Arana, entre José Santiago Aldunate y Antonio Maceo",Renca,Mi y Sá,-33.4138259,-70.6863385
+CHILECTRA,"Nicanor Fajardo, entre Domingo Santa María y Costanera Norte",Renca,Mi y Sá,-33.4047835,-70.7095685
+MANUEL RODRÍGUEZ,"Manuel Rodríguez, entre Río Huasco y Calle del Cerro",Renca,Mi,-33.3954742,-70.7217536
+VICUÑA MACKENNA,"Vicuña Mackenna, entre José Miguel Infante y Miraflores",Renca,Ju y Do,-33.4057077,-70.7455486
+LOS ACACIOS,"Los Acacios, entre Los Aromos y Pasaje Rubí",Renca,Ju y Do,-33.4044894,-70.7170929
+COLO COLO,"Colo Colo, entre General Freire y Arturo Prat",Renca,Ju y Do,-33.4010551,-70.7263927
+LOURDES,"Diego Portales, entre Montt Varas e Ignacio Carrera Pinto",Renca,Ma y Vi,-33.4013105,-70.7120919
+HUAMACHUCO,"Los Clarines, entre Las Margaritas y Senador Jaime Guzmán",Renca,Ma y Vi,-33.3674591,-70.7056097
+HUAMACHUCO II,"Las Margaritas, entre Puerto Montt y Pasaje Lima",Renca,Mi y Sá,-12.0463731,-77.042754
+DORSAL,"José Manuel Balmaceda, entre Caupolicán y Pasaje Chercán",Renca,Mi y Sá,-33.4031841,-70.7014599
+PELLUHUE,"Pelluhue, entre José Miguel Infante y Topocalma",Renca,Ma y Vi,-33.4067575,-70.7344536
+EL MANZANO 1,"Balmaceda, entre Martín de Solís y Maullín",San Bernardo,Ma y Vi,-33.5971892,-70.6848683
+EL MANZANO 2,"Balmaceda Oriente, entre Volcán Maipo y Santa Mercedes",San Bernardo,Mi y Sá,-33.5922822,-70.6715001
+EL MANZANO 3,"Lo Blanco, entre Pasaje Drake y Yokaguachi",San Bernardo,Ju y Do,-33.5854485,-70.6987361
+CARVALLO,"Liborio Carvallo, entre Barros Arana y Victoria",San Bernardo,Sá,-33.6073354,-70.7034676
+YUNGAY,"Yungay, entre América y Santiago Mac-Lean",San Bernardo,Ma y Sá,-33.5817041,-70.7005397
+EL OLIVO,"Francisco de Camargo, entre Calderón de la Barca y Santa Marta",San Bernardo,Mi y Sá,-33.5819377,-70.6868809
+COSTANERA,"Costanera, entre Av",San Bernardo,Colón y Covadonga. Ju y Do,-33.5961226,-70.7127496
+ANTONIO VARAS,"Antonio Varas, entre Baquedano y José Besa",San Bernardo,Ju y Do,-33.5924319,-70.6923197
+MUSSA,"San Nicolás, entre Benozzo Gozzoli y Cristóbal de Erazo",San Joaquín,Ju y Do,-33.4994408,-70.6371848
+GASPAR DE SOTO,"Gaspar de Soto, entre San Gregorio y Santa Rosa",San Joaquín,Mi y Do,-33.4962023,-70.6402274
+NAVARRETE,"Tocornal, entre Pintor Ciccarelli e Isabel Riquelme",San Joaquín,Sá,-33.4815181,-70.6302276
+SAN JUAN,"San Juan, entre Comercio y Av",San Joaquín,Central. Ma y Vi,-33.496202,-70.6283361
+LAS INDUSTRIAS,"Vecinal, entre Carmen Mena y Pasaje Anay",San Joaquín,Ma y Vi,-33.5137455,-70.6212557
+LA CASTRINA,"Sebastopol, entre Santa Rosa y La Castrina",San Joaquín,Ma y Sá,38.4021359,-122.8238806
+POBLACIÓN CHILE,"Juan Sebastián Bach, entre Palestrina y Guido D' Arezzo",San Joaquín,Mi,-33.4808045,-70.629051
+LA LEGUA,"Comandante Riesle, entre Alcalde Pedro Alarcón y San Gregorio",San Joaquín,Ju y Do,-33.4895443,-70.635739
+VARAS MENA,"José Luis Cerda, entre León Prado y Varas Mena",San Joaquín,Ma y Vi,-33.5063488,-70.6486606
+TRISTÁN MATTA,"Tristán Matta, entre Gauss y Panamericana Sur",San Joaquín,Ju y Do,-33.5012804,-70.6597774
+ATACAMA,"Cuarta Avenida, entre Cuarta Transversal y Quinta Transversal",San Joaquín,Mi y Sá,-33.5058671,-70.661673
+SOTO AGUILAR,"Soto Aguilar, entre San Ignacio y Barros Luco",San Joaquín,Ju y Do,-33.4843302,-70.646003
+SALESIANOS,"San Francisco, entre Álvarez de Toledo y María Auxiliadora",San Joaquín,Vi,-33.4908747,-70.6465751
+CHILOÉ,"Chiloé, entre Varas Mena y Departamental",San Joaquín,Vi,-33.5108972,-70.6471668
+LA BANDERA,"La Bandera, entre Vicuña Mackenna y Esperanza",San Ramón,Ju y Do,-33.5458496,-70.6453589
+BOLIVIA,"Bolivia, entre Pedro Aguirre Cerda y Cárlos Dávila",San Ramón,Mi y Sá,-33.5333628,-70.6411456
+MAYO,"Mayo, entre Rivadavia y Alvear",San Ramón,Mi y Sá,-33.5234353,-70.6434149
+VILLA BLANCA,"Alvear, entre Fernández Albano y Santa Ana",San Ramón,Ju y Do,-33.5270768,-70.644227
+SARGENTO CANDELARIA,"Sargento Candelaria, entre Juan Antonio Ríos y Pedro Aguirre Cerda",San Ramón,Mi y Sá,-33.5510207,-70.6464256
+FERNÁNDEZ ALBANO,"Elías Fernández Albano, entre Paraguay y Bolivia",San Ramón,Ju y Do,-33.5336797,-70.6475606
+ALPATACAL,"Alpatacal, entre La Bandera y Aníbal Zañartu",San Ramón,Ma y Vi,-33.5475262,-70.6457111
+BARROS LUCO,"Barros Luco, entre El Parrón y Uruguay",San Ramón,Ma y Vi,-33.5291419,-70.6444454
+PORTALES,"Portales, entre Libertad y Maipú",Santiago,Ju,-34.5180301,-58.487014
+HERRERA,"Herrera, entre San Pablo y Mapocho",Santiago,Ma y Mi,-33.4294087,-70.6991019
+MARTÍNEZ DE ROZAS,"Martínez de Rozas, entre Ricardo Cumming y Brasil",Santiago,Mi y Sá,-33.4398919,-70.6648376
+PEDRO LAGOS,"Pedro Lagos, entre Lira y Carmen",Santiago,Sá,-33.4640303,-70.6344058
+DIEZ DE JULIO,"Diez de Julio Huamachuco, entre Vicuña Mackenna y Portugal",Santiago,Do,-33.4519135,-70.6307555
+SAN CAMILO,"San Camilo, entre Argomedo y Marín",Santiago,Mi y Vi,-33.4488897,-70.6692655
+BLANCO ENCALADA,"Blanco Encalada, entre Club Hípico y Echaurren",Santiago,Sá,-33.457196,-70.6649552
+COQUIMBO,"Coquimbo, entre Nueva Aldea y Lingue",Santiago,Ma y Sá,-33.4488897,-70.6692655
+ROMERO,"Romero, entre Libertad y García Reyes",Santiago,Ma y Vi,-33.4406209,-70.6714863
+ROBERTO ESPINOZA,"Roberto Espinoza, entre Victoria y Pedro Lagos",Santiago,Sá,-33.4653509,-70.6424663
+ESPERANZA,"Esperanza, entre Portales y Erasmo Escala",Santiago,Do,-33.4455556,-70.6709174
+SAN AGUSTÍN,"San Agustín, entre Bascuñán Guerrero y Francisco Pizarro",Santiago,Sá,-33.4743846,-70.6716619
+GASPAR DE LA BARRERA,"Gaspar De la Barrera, entre Longaví y Camino Melipilla",Santiago,Ju y Do,-33.5444997,-70.7816359
+VENTURA LAVALLE,"Ventura Lavalle, entre Pedro León Ugalde y Lira",Santiago,Ma,-33.4580843,-70.6334687
+ALDUNATE,"Aldunate, entre Copiapó y Coquimbo",Santiago,Ju y Do,-33.4952736,-70.6258596
+CLUB DE POLO,"Monseñor Escrivá de Balaguer, entre Luis Carrera y la entrada a CasaPiedra",Vitacura,Ju y Vi,-33.3833659,-70.5882224
+EL AROMO,"El Aromo, entre Padre Hurtado Norte y La Cortada",Vitacura,Ju y Sá,-33.3799124,-70.5550553
