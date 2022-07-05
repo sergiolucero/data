@@ -1,8 +1,7 @@
-* What should go here?
+## Archivos con datos georeferenciados
 
-All sorts of georeferenced data which can be turned into maps.
-Map building code samples, à la (gist.github.com)[link]
-
-- Ferias
-- Museos
-- Pescaderías
+## Carpetas
+- mapbox/GeoCGR: proyectos visados por Contraloría, separados por región (json/HTML)
+- Transport/UBER/here.com: anillos isocrónicos (de here.com) y tráfico horario en UBER
+- Humedales: por región
+- VARIOS: ferias, cut_comunas, Concón, cerros_Valpo, museos, pescaderias, rios
